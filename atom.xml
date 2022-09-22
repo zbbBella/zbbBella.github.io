@@ -6,7 +6,7 @@
   <link href="https://www.bebella.cc/atom.xml" rel="self"/>
   
   <link href="https://www.bebella.cc/"/>
-  <updated>2022-09-22T17:48:10.733Z</updated>
+  <updated>2022-09-22T17:58:08.545Z</updated>
   <id>https://www.bebella.cc/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://www.bebella.cc/2022/09/23/Redis%E6%8C%81%E4%B9%85%E5%8C%96/"/>
     <id>https://www.bebella.cc/2022/09/23/Redis%E6%8C%81%E4%B9%85%E5%8C%96/</id>
     <published>2022-09-22T17:40:40.000Z</published>
-    <updated>2022-09-22T17:48:10.733Z</updated>
+    <updated>2022-09-22T17:58:08.545Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="1-持久化"><a href="#1-持久化" class="headerlink" title="1. 持久化"></a>1. 持久化</h2><h3 id="1-什么是持久化"><a href="#1-什么是持久化" class="headerlink" title="1. 什么是持久化"></a>1. 什么是持久化</h3><p>​持久化可以理解为数据的永久存储，就是将数据存储到一个不会丢失的地方。如果把数据放在内存中，电脑关闭或重启数据就会丢失，所以放在内存中的数据不是持久化 的，而放在磁盘就是一种持久化。 </p><h3 id="2-Redis的持久化"><a href="#2-Redis的持久化" class="headerlink" title="2. Redis的持久化"></a>2. Redis的持久化</h3>]]></content>
+    <content type="html"><![CDATA[<h2 id="1-持久化"><a href="#1-持久化" class="headerlink" title="1. 持久化"></a>1. 持久化</h2><h3 id="1-什么是持久化"><a href="#1-什么是持久化" class="headerlink" title="1. 什么是持久化"></a>1. 什么是持久化</h3><p>​持久化可以理解为数据的永久存储，就是将数据存储到一个不会丢失的地方。如果把数据放在内存中，电脑关闭或重启数据就会丢失，所以放在内存中的数据不是持久化 的，而放在磁盘就是一种持久化。 </p><h3 id="2-Redis的持久化"><a href="#2-Redis的持久化" class="headerlink" title="2. Redis的持久化"></a>2. Redis的持久化</h3><ul><li>Redis的数据存储在内存中，系统宕机or重启，或Redis崩溃、重启，所有数据丢失</li><li>为解决此问题，提供两种机制对数据进行持久化储存，方便故障发生后迅速恢复数据。</li></ul><h4 id="1-RDB"><a href="#1-RDB" class="headerlink" title="1. RDB"></a>1. RDB</h4><h4 id="2-AOF"><a href="#2-AOF" class="headerlink" title="2. AOF"></a>2. AOF</h4>]]></content>
     
     
       
