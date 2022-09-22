@@ -6,7 +6,7 @@
   <link href="https://www.bebella.cc/atom.xml" rel="self"/>
   
   <link href="https://www.bebella.cc/"/>
-  <updated>2022-09-20T14:32:34.318Z</updated>
+  <updated>2022-09-22T05:38:12.889Z</updated>
   <id>https://www.bebella.cc/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello</title>
+    <link href="https://www.bebella.cc/2022/09/22/Hello/"/>
+    <id>https://www.bebella.cc/2022/09/22/Hello/</id>
+    <published>2022-09-22T05:36:08.000Z</published>
+    <updated>2022-09-22T05:38:12.889Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hello, I am Bella z. It would be my first blog and I would try to share my study notes, daily life, what I like etc.</p><p>Welcome!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Hello, I am Bella z. It would be my first blog and I would try to share my study notes, daily life, what I like etc.&lt;/p&gt;
+&lt;p&gt;Welcome!&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
