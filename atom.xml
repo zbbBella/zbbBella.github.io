@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Bella&#39;s blog</title>
   
   
   <link href="https://www.bebella.cc/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://www.bebella.cc/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Bella</name>
     
   </author>
   
