@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Bella</title>
   
-  
+  <subtitle>Working Hard</subtitle>
   <link href="https://www.bebella.cc/atom.xml" rel="self"/>
   
   <link href="https://www.bebella.cc/"/>
