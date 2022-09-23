@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.bebella.cc/2022/09/23/Redis%E6%8C%81%E4%B9%85%E5%8C%96/</loc>
+    <loc>https://www.bebella.cc/2022/09/23/Kaggle%E5%85%A5%E9%97%A8/</loc>
     
     <lastmod>2022-09-23</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://www.bebella.cc/2022/09/23/Kaggle%E5%85%A5%E9%97%A8/</loc>
+    <loc>https://www.bebella.cc/2022/09/23/Redis%E6%8C%81%E4%B9%85%E5%8C%96/</loc>
     
     <lastmod>2022-09-23</lastmod>
     
@@ -87,10 +87,24 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://www.bebella.cc/tags/Kaggle/</loc>
+    <lastmod>2022-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
     <loc>https://www.bebella.cc/categories/NoSQL/</loc>
+    <lastmod>2022-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.bebella.cc/categories/DataScience/</loc>
     <lastmod>2022-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

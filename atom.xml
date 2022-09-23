@@ -6,7 +6,7 @@
   <link href="https://www.bebella.cc/atom.xml" rel="self"/>
   
   <link href="https://www.bebella.cc/"/>
-  <updated>2022-09-23T05:47:59.951Z</updated>
+  <updated>2022-09-23T16:59:54.553Z</updated>
   <id>https://www.bebella.cc/</id>
   
   <author>
@@ -21,11 +21,22 @@
     <link href="https://www.bebella.cc/2022/09/23/Kaggle%E5%85%A5%E9%97%A8/"/>
     <id>https://www.bebella.cc/2022/09/23/Kaggle%E5%85%A5%E9%97%A8/</id>
     <published>2022-09-23T05:47:59.000Z</published>
-    <updated>2022-09-23T05:47:59.951Z</updated>
+    <updated>2022-09-23T16:59:54.553Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="1-Recap-of-main-ML-algorithms"><a href="#1-Recap-of-main-ML-algorithms" class="headerlink" title="1. Recap of main ML algorithms"></a>1. Recap of main ML algorithms</h2><h3 id="1-Linear"><a href="#1-Linear" class="headerlink" title="1 Linear"></a>1 Linear</h3><p>advantage:</p><p>适合稀疏的数据</p><p>disadvantage:</p><p>很多数据不能被简单的一条线分成两类</p><h3 id="2-Tree-based"><a href="#2-Tree-based" class="headerlink" title="2 Tree-based"></a>2 Tree-based</h3><p>决策树、随机森林、GBDT</p><p>需要大量分裂，很难找到线性相关性</p><h3 id="3-kNN（k最近邻）"><a href="#3-kNN（k最近邻）" class="headerlink" title="3  kNN（k最近邻）"></a>3  kNN（k最近邻）</h3><h3 id="4-Neural-Networks"><a href="#4-Neural-Networks" class="headerlink" title="4  Neural Networks"></a>4  Neural Networks</h3><h2 id="2-Feature-Preprocessing-and-Generation"><a href="#2-Feature-Preprocessing-and-Generation" class="headerlink" title="2. Feature Preprocessing and Generation"></a>2. Feature Preprocessing and Generation</h2><h3 id="1-Numeric-Features"><a href="#1-Numeric-Features" class="headerlink" title="1 Numeric Features"></a>1 Numeric Features</h3><p>Tree-based 不需要scaling</p><p>但是Non-tree-based就非常依赖scaling</p><h4 id="preprocessing"><a href="#preprocessing" class="headerlink" title="preprocessing"></a>preprocessing</h4><p>a. 0-1 正则化</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sklearn.preprocessing.MinMaxScaler</span><br></pre></td></tr></table></figure><p>$X &#x3D; (X - X.min()) &#x2F; (X.max() - X.min()) $</p><p>b. 标准正则化</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sklearn.preprocessing.StandardScaler</span><br></pre></td></tr></table></figure><p>$X &#x3D; (X - X.mean()) &#x2F; X.std() $</p><p>c. 异常值处理</p><ul><li>设定取值范围</li></ul><p>d. rank</p><ul><li>映射</li><li><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h6h0k7hdnkj20c203ct91.jpg" alt="rank"></li></ul><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">scipy.stats.rankdata</span><br></pre></td></tr></table></figure><p>非树型 或 神经网络可以用：</p><ul><li><p>Log </p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">np.log(1 + x)</span><br></pre></td></tr></table></figure></li><li><p>Raising to the power &lt; 1:</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">np.sqrt(x + 2/3)</span><br></pre></td></tr></table></figure></li></ul><h4 id="feature-generation"><a href="#feature-generation" class="headerlink" title="feature generation"></a>feature generation</h4><p>powered by:</p><ul><li>prior knowledge</li><li>EDA</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;1-Recap-of-main-ML-algorithms&quot;&gt;&lt;a href=&quot;#1-Recap-of-main-ML-algorithms&quot; class=&quot;headerlink&quot; title=&quot;1. Recap of main ML algorithms&quot;&gt;&lt;/</summary>
+      
     
     
     
+    <category term="DataScience" scheme="https://www.bebella.cc/categories/DataScience/"/>
     
+    
+    <category term="Kaggle" scheme="https://www.bebella.cc/tags/Kaggle/"/>
     
   </entry>
   
