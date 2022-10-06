@@ -6,7 +6,7 @@
   <link href="https://www.bebella.cc/atom.xml" rel="self"/>
   
   <link href="https://www.bebella.cc/"/>
-  <updated>2022-09-27T02:07:40.618Z</updated>
+  <updated>2022-10-06T21:28:15.544Z</updated>
   <id>https://www.bebella.cc/</id>
   
   <author>
@@ -15,6 +15,56 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>白盒测试技术</title>
+    <link href="https://www.bebella.cc/2022/10/06/%E7%99%BD%E7%9B%92%E6%B5%8B%E8%AF%95%E6%8A%80%E6%9C%AF/"/>
+    <id>https://www.bebella.cc/2022/10/06/%E7%99%BD%E7%9B%92%E6%B5%8B%E8%AF%95%E6%8A%80%E6%9C%AF/</id>
+    <published>2022-10-06T12:42:33.000Z</published>
+    <updated>2022-10-06T21:28:15.544Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="（一）白盒测试技术概述"><a href="#（一）白盒测试技术概述" class="headerlink" title="（一）白盒测试技术概述"></a>（一）白盒测试技术概述</h2><h3 id="1-白盒测试基本原理"><a href="#1-白盒测试基本原理" class="headerlink" title="1. 白盒测试基本原理"></a>1. 白盒测试基本原理</h3><ul><li><p>白盒测试，侧重系统or部件内部机制的测试。</p><blockquote><p>分支测试（判定节点测试）、路径测试、语句测试</p></blockquote></li><li><p>又称结构测试、透明盒测试、逻辑驱动测试or基于代码的测试。</p><p>已知产品的内部工作过程，主要对程序内部结构展开测试，关注程序实现的细节</p></li></ul><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h6vuwn5uuij207z03qglq.jpg" alt="image.png"></p><h3 id="2-白盒测试关注的对象"><a href="#2-白盒测试关注的对象" class="headerlink" title="2. 白盒测试关注的对象"></a>2. 白盒测试关注的对象</h3><ul><li>源代码</li><li>程序结构</li></ul><h3 id="3-白盒测试优缺点"><a href="#3-白盒测试优缺点" class="headerlink" title="3. 白盒测试优缺点"></a>3. 白盒测试优缺点</h3><p>优点：</p><ul><li>针对性强，便于快速定位，测试效率高</li><li>函数级别开始测试工作，缺陷修复成本低</li><li>通过不同的白盒覆盖指标有助于了解和衡量对被测对象的测试覆盖程度</li><li>有助于代码优化和缺陷预防</li></ul><p>缺点：</p><ul><li>对测试人员的技术要求高<ul><li>需要有一定的编程经验</li><li>白盒测试工程师需要具备广博的知识面</li></ul></li><li>成本高<ul><li>白盒测试的准备时间比较长</li></ul></li></ul><h3 id="4-白盒测试的问题"><a href="#4-白盒测试的问题" class="headerlink" title="4. 白盒测试的问题"></a>4. 白盒测试的问题</h3><ul><li>软件测试不是完备的</li><li>软件测试有风险</li><li>测试设计应该达到的目标<ul><li>提高效率</li><li>降低风险</li><li>在代码级别提高软件质量</li></ul></li></ul><h3 id="5-控制流分析技术"><a href="#5-控制流分析技术" class="headerlink" title="5. 控制流分析技术"></a>5. 控制流分析技术</h3><h4 id="1-什么是控制流分析？"><a href="#1-什么是控制流分析？" class="headerlink" title="1. 什么是控制流分析？"></a>1. 什么是控制流分析？</h4><p>就是根据程序的控制结构所反映的执行流流动规律建立起每一个程序执行点在控制结构中与其前驱或后继执行点在执行顺序上的对应关系，即流图。 流图直接反映了程序所有可能的执行路径以及执行流的运动规律</p><h4 id="2-控制流分析要解决的问题"><a href="#2-控制流分析要解决的问题" class="headerlink" title="2. 控制流分析要解决的问题"></a>2. 控制流分析要解决的问题</h4><ul><li>什么因素导致程序结构变的复杂</li><li>如何衡量程序结构的复杂程度</li><li>控制程序执行流程发生变化的主要因素是什么</li><li>如何测试这些因素并且确保测试的效率</li></ul><h4 id="3-控制流分析内容"><a href="#3-控制流分析内容" class="headerlink" title="3. 控制流分析内容"></a>3. 控制流分析内容</h4><ul><li>关注判定节点固有的复杂性<ul><li>焦点：判定表达式</li><li>方法：逻辑覆盖测试</li></ul></li><li>关注判定结构与循环结构对执行路径产生的影响<ul><li>焦点：路径</li><li>方法：基本（独立）路径测试</li></ul></li><li>关注循环结构本身复杂性<ul><li>焦点：循环体</li><li>方法：基于数据的静态分析</li></ul></li></ul><h3 id="6-常见的程序结构"><a href="#6-常见的程序结构" class="headerlink" title="6. 常见的程序结构"></a>6. 常见的程序结构</h3><h4 id="1-线性结构"><a href="#1-线性结构" class="headerlink" title="1. 线性结构"></a>1. 线性结构</h4><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h6vv51fwedj20cc05st95.jpg" alt="线性结构"></p><h4 id="2-条件判定结构"><a href="#2-条件判定结构" class="headerlink" title="2. 条件判定结构"></a>2. 条件判定结构</h4><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h6vv5mnh4kj20fw066jse.jpg" alt="条件判定结构"></p><h4 id="3-While循环结构"><a href="#3-While循环结构" class="headerlink" title="3. While循环结构"></a>3. While循环结构</h4><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h6vv69vq17j20e505tmxv.jpg" alt="While循环结构"></p><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h6vv6z6f16j20cq05ht9f.jpg" alt="Do-While结构"></p><h3 id="7-白盒测试分类"><a href="#7-白盒测试分类" class="headerlink" title="7. 白盒测试分类"></a>7. 白盒测试分类</h3><p>可以分为两大类</p><h4 id="1-动态白盒测试"><a href="#1-动态白盒测试" class="headerlink" title="1. 动态白盒测试"></a>1. 动态白盒测试</h4><p>又称结构化测试。运行使用程序条件下找bug。</p><p>主要有逻辑覆盖测试、基本（独立）路径测试</p><h4 id="2-静态白盒测试"><a href="#2-静态白盒测试" class="headerlink" title="2. 静态白盒测试"></a>2. 静态白盒测试</h4><p>又称结构分析。不执行软件的条件下找出bug</p><p>主要有静态结构分析、静态质量度量、代码检查方法等等。</p><h3 id="8-逻辑覆盖猜测试（对判定）"><a href="#8-逻辑覆盖猜测试（对判定）" class="headerlink" title="8. 逻辑覆盖猜测试（对判定）"></a>8. 逻辑覆盖猜测试（对判定）</h3><p>原理：以程序内部的逻辑结构为基础的用例设计方法，通过对程序的逻辑结构的遍历，来实现测试对程序的覆盖。</p><p>关注点：判定表达式本身的复杂度</p><p>基本原则：对程序代码中所有的逻辑值，都需要测试其真值（True）和假值（False）的情况 </p><p>根据不同测试要求，逻辑覆盖测试可以分为：</p><ul><li>语句覆盖</li><li>判定覆盖（分支覆盖）</li><li>条件覆盖</li><li>判定-条件覆盖（分支-条件覆盖）</li><li>条件组合覆盖</li><li>路径覆盖</li></ul><h4 id="逻辑测试相关概念"><a href="#逻辑测试相关概念" class="headerlink" title="逻辑测试相关概念"></a>逻辑测试相关概念</h4><p>测试覆盖率 ：</p><ul><li>$覆盖率 &#x3D; 至少被执行一次的item总数 &#x2F; item总数$<ul><li>功能覆盖率：大致用于表示软件已经实现的功能和软件需要实现的功能之间的比例关系</li><li>结构覆盖率：包括语句覆盖率，分支覆盖率，路径覆盖率，循环覆盖率</li></ul></li><li>不一定要达到100%，也可以设置一个指标，达到这个指标后就认为达到了测试的效果</li></ul><h4 id="1-语句覆盖"><a href="#1-语句覆盖" class="headerlink" title="1. 语句覆盖"></a>1. 语句覆盖</h4><h5 id="基本思想："><a href="#基本思想：" class="headerlink" title="基本思想："></a>基本思想：</h5><p>设计测试用例时应保证程序中<strong>每一条可执行语句至少应该执行一次</strong>（点覆盖）</p><p>语句覆盖是最弱的一种覆盖标准</p><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h6w83fprpuj20h407u3z9.jpg" alt="语句覆盖"></p><h5 id="弊端："><a href="#弊端：" class="headerlink" title="弊端："></a>弊端：</h5><ul><li>关注语句，而非关注判定节点</li><li>对隐式分支无效</li></ul><h5 id="对策："><a href="#对策：" class="headerlink" title="对策："></a>对策：</h5><ul><li>优选测试数据</li><li>更强的覆盖准则：判定覆盖</li></ul><h4 id="2-判定覆盖"><a href="#2-判定覆盖" class="headerlink" title="2. 判定覆盖"></a>2. 判定覆盖</h4><h5 id="基本思想：-1"><a href="#基本思想：-1" class="headerlink" title="基本思想："></a>基本思想：</h5><p>又称分支覆盖。设计测试用例时，要保证程序中<strong>每个判定节点</strong>取得每种可能的结果至少一次。或者程序中每个判定的真分支和假分支至少执行一次。（边覆盖）</p><h5 id="局限性："><a href="#局限性：" class="headerlink" title="局限性："></a>局限性：</h5><ul><li>当判断节点中包含的是复合判定表达式时，即由多个简单判定条件（子条件）通过“与”、“或”关系连接而成的判定</li><li>此时，判定覆盖仅关心表达式的整体取值，并不关系局部组成，导致漏洞</li><li>故需要更严格的覆盖准则—-条件覆盖</li></ul><h4 id="3-条件覆盖"><a href="#3-条件覆盖" class="headerlink" title="3. 条件覆盖"></a>3. 条件覆盖</h4><h5 id="基本思想：-2"><a href="#基本思想：-2" class="headerlink" title="基本思想："></a>基本思想：</h5><p>设计测试用例时应保证程序中<strong>每个复合判定表达式</strong>中，每个简单的判定条件（子条件）的取真和取假情况至少执行一次。</p><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h6w8s98hajj205v02jdg3.jpg" alt="条件覆盖"></p><p>实际上belike拆分成原子语句</p><p>局限性：</p><ul><li>并不能确保满足判定覆盖</li><li>相比判定覆盖，条件覆盖虽然进一步深入检查了判定节点中的每个子条件，但局部的完全覆盖不能保证对判定节点整体的完全覆盖</li><li>so需要更全面的覆盖准则—-判定-条件覆盖</li></ul><h4 id="4-判定-条件覆盖"><a href="#4-判定-条件覆盖" class="headerlink" title="4. 判定-条件覆盖"></a>4. 判定-条件覆盖</h4><p>设计测试用例时，满足以下条件：</p><ul><li><p>判定节点的取真、取假分支至少执行一次</p></li><li><p>且每个简单的判定条件（子条件）的取真和取假情况也至少执行一次</p><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h6w9k3n7s8j20gr050q4w.jpg" alt="判定-条件覆盖"></p></li></ul><h4 id="5-条件组合覆盖"><a href="#5-条件组合覆盖" class="headerlink" title="5. 条件组合覆盖"></a>5. 条件组合覆盖</h4><p>每个判定节点中，所有简单判定条件（子条件）的所有可能的取值组合情况至少执行一次</p><p>本质：通过列真值表来得到完全覆盖</p><p>优势：</p><ul><li>覆盖前面all</li><li>方法简单，穷举法</li></ul><p>局限性：</p><ul><li>不能保证所有组合的路径被执行</li><li>测试用例太多</li><li>冗余严重</li></ul><h4 id="6-路径覆盖"><a href="#6-路径覆盖" class="headerlink" title="6. 路径覆盖"></a>6. 路径覆盖</h4><h5 id="基本要求："><a href="#基本要求：" class="headerlink" title="基本要求："></a>基本要求：</h5><p>要求设计足够的测试用例，运行被测程序，覆盖程序中all可能组合的路径</p><p>范围最广</p><h4 id="7-各方法之间关系"><a href="#7-各方法之间关系" class="headerlink" title="7. 各方法之间关系"></a>7. 各方法之间关系</h4><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h6w9x227dsj20hj07o401.jpg" alt="对比图"></p><h2 id="（二）逻辑覆盖测试-x2F-对判定的测试"><a href="#（二）逻辑覆盖测试-x2F-对判定的测试" class="headerlink" title="（二）逻辑覆盖测试&#x2F;对判定的测试"></a>（二）逻辑覆盖测试&#x2F;对判定的测试</h2><h2 id="（三）基本路径测试-x2F-对路径的测试"><a href="#（三）基本路径测试-x2F-对路径的测试" class="headerlink" title="（三）基本路径测试&#x2F;对路径的测试"></a>（三）基本路径测试&#x2F;对路径的测试</h2><h2 id="（四）静态白盒测试"><a href="#（四）静态白盒测试" class="headerlink" title="（四）静态白盒测试"></a>（四）静态白盒测试</h2><h2 id="（五）白盒测试工具Junit的使用"><a href="#（五）白盒测试工具Junit的使用" class="headerlink" title="（五）白盒测试工具Junit的使用"></a>（五）白盒测试工具Junit的使用</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;（一）白盒测试技术概述&quot;&gt;&lt;a href=&quot;#（一）白盒测试技术概述&quot; class=&quot;headerlink&quot; title=&quot;（一）白盒测试技术概述&quot;&gt;&lt;/a&gt;（一）白盒测试技术概述&lt;/h2&gt;&lt;h3 id=&quot;1-白盒测试基本原理&quot;&gt;&lt;a href=&quot;#1-白盒测试基</summary>
+      
+    
+    
+    
+    <category term="软件测试" scheme="https://www.bebella.cc/categories/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/"/>
+    
+    
+    <category term="软件测试" scheme="https://www.bebella.cc/tags/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>软件测试基础</title>
+    <link href="https://www.bebella.cc/2022/10/06/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/"/>
+    <id>https://www.bebella.cc/2022/10/06/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/</id>
+    <published>2022-10-06T10:57:01.000Z</published>
+    <updated>2022-10-06T12:42:00.118Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="6-什么是软件缺陷（BUG）"><a href="#6-什么是软件缺陷（BUG）" class="headerlink" title="6. 什么是软件缺陷（BUG）"></a>6. 什么是软件缺陷（BUG）</h4><p>第一个bug：</p><ul><li>Grace Hopper 计算机软件之母</li><li>1945.9.9</li><li>First actual case of bug being found</li></ul><p>著名软件故障：</p><ul><li>”算不准”的cpu【功能问题】</li><li>“哭泣”的狮子王【兼容性问题】</li><li>“失控”的动车【容错性问题】</li><li>“消失”的火星探测器【集成性问题】</li><li>“拒绝访问”的Gmail【性能问题】</li></ul><p>软件测试的必要性：</p><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h6vrviftnmj20jv05f0ud.jpg" alt="image.png"></p><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h6vrvw4aewj20k002dwf8.jpg" alt="image.png"></p><p>软件缺陷的正式定义：（符合一个就算）</p><ol><li>软件测试员认为难以理解，不易使用，运行速度缓慢or最终用户认为软件是用效果不好的</li><li>软件未达到需求规格说明书中指明的功能</li><li>软件出现了需求规格说明书中不会出现的错误</li><li>软件功能超出需求规格说明书中指明的范围</li><li>软件未达到需求规格说明书总虽未指出但应该达到的指标</li></ol><h4 id="7-什么是测试用例"><a href="#7-什么是测试用例" class="headerlink" title="7. 什么是测试用例"></a>7. 什么是测试用例</h4><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h6vs2h9qazj20e502l3z2.jpg" alt="image.png"></p><p>测试用例的基本属性</p><ul><li>典型性（代表性）</li><li>可测试性（可判定性）</li><li>可重现性</li><li>独立性</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h4 id=&quot;6-什么是软件缺陷（BUG）&quot;&gt;&lt;a href=&quot;#6-什么是软件缺陷（BUG）&quot; class=&quot;headerlink&quot; title=&quot;6. 什么是软件缺陷（BUG）&quot;&gt;&lt;/a&gt;6. 什么是软件缺陷（BUG）&lt;/h4&gt;&lt;p&gt;第一个bug：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li</summary>
+      
+    
+    
+    
+    <category term="软件测试" scheme="https://www.bebella.cc/categories/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/"/>
+    
+    
+    <category term="软件测试" scheme="https://www.bebella.cc/tags/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
   
   <entry>
     <title>数据库访问技术</title>
@@ -69,9 +119,9 @@
     <link href="https://www.bebella.cc/2022/09/23/Kaggle%E5%85%A5%E9%97%A8/"/>
     <id>https://www.bebella.cc/2022/09/23/Kaggle%E5%85%A5%E9%97%A8/</id>
     <published>2022-09-23T05:47:59.000Z</published>
-    <updated>2022-09-23T16:59:54.553Z</updated>
+    <updated>2022-09-27T09:17:02.812Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="1-Recap-of-main-ML-algorithms"><a href="#1-Recap-of-main-ML-algorithms" class="headerlink" title="1. Recap of main ML algorithms"></a>1. Recap of main ML algorithms</h2><h3 id="1-Linear"><a href="#1-Linear" class="headerlink" title="1 Linear"></a>1 Linear</h3><p>advantage:</p><p>适合稀疏的数据</p><p>disadvantage:</p><p>很多数据不能被简单的一条线分成两类</p><h3 id="2-Tree-based"><a href="#2-Tree-based" class="headerlink" title="2 Tree-based"></a>2 Tree-based</h3><p>决策树、随机森林、GBDT</p><p>需要大量分裂，很难找到线性相关性</p><h3 id="3-kNN（k最近邻）"><a href="#3-kNN（k最近邻）" class="headerlink" title="3  kNN（k最近邻）"></a>3  kNN（k最近邻）</h3><h3 id="4-Neural-Networks"><a href="#4-Neural-Networks" class="headerlink" title="4  Neural Networks"></a>4  Neural Networks</h3><h2 id="2-Feature-Preprocessing-and-Generation"><a href="#2-Feature-Preprocessing-and-Generation" class="headerlink" title="2. Feature Preprocessing and Generation"></a>2. Feature Preprocessing and Generation</h2><h3 id="1-Numeric-Features"><a href="#1-Numeric-Features" class="headerlink" title="1 Numeric Features"></a>1 Numeric Features</h3><p>Tree-based 不需要scaling</p><p>但是Non-tree-based就非常依赖scaling</p><h4 id="preprocessing"><a href="#preprocessing" class="headerlink" title="preprocessing"></a>preprocessing</h4><p>a. 0-1 正则化</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sklearn.preprocessing.MinMaxScaler</span><br></pre></td></tr></table></figure><p>$X &#x3D; (X - X.min()) &#x2F; (X.max() - X.min()) $</p><p>b. 标准正则化</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sklearn.preprocessing.StandardScaler</span><br></pre></td></tr></table></figure><p>$X &#x3D; (X - X.mean()) &#x2F; X.std() $</p><p>c. 异常值处理</p><ul><li>设定取值范围</li></ul><p>d. rank</p><ul><li>映射</li><li><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h6h0k7hdnkj20c203ct91.jpg" alt="rank"></li></ul><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">scipy.stats.rankdata</span><br></pre></td></tr></table></figure><p>非树型 或 神经网络可以用：</p><ul><li><p>Log </p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">np.log(1 + x)</span><br></pre></td></tr></table></figure></li><li><p>Raising to the power &lt; 1:</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">np.sqrt(x + 2/3)</span><br></pre></td></tr></table></figure></li></ul><h4 id="feature-generation"><a href="#feature-generation" class="headerlink" title="feature generation"></a>feature generation</h4><p>powered by:</p><ul><li>prior knowledge</li><li>EDA</li></ul>]]></content>
+    <content type="html"><![CDATA[<h2 id="1-Recap-of-main-ML-algorithms"><a href="#1-Recap-of-main-ML-algorithms" class="headerlink" title="1. Recap of main ML algorithms"></a>1. Recap of main ML algorithms</h2><h3 id="1-Linear"><a href="#1-Linear" class="headerlink" title="1 Linear"></a>1 Linear</h3><p>advantage:</p><p>适合稀疏的数据</p><p>disadvantage:</p><p>很多数据不能被简单的一条线分成两类</p><h3 id="2-Tree-based"><a href="#2-Tree-based" class="headerlink" title="2 Tree-based"></a>2 Tree-based</h3><p>决策树、随机森林、GBDT</p><p>需要大量分裂，很难找到线性相关性</p><h3 id="3-kNN（k最近邻）"><a href="#3-kNN（k最近邻）" class="headerlink" title="3  kNN（k最近邻）"></a>3  kNN（k最近邻）</h3><h3 id="4-Neural-Networks"><a href="#4-Neural-Networks" class="headerlink" title="4  Neural Networks"></a>4  Neural Networks</h3><h2 id="2-Feature-Preprocessing-and-Generation"><a href="#2-Feature-Preprocessing-and-Generation" class="headerlink" title="2. Feature Preprocessing and Generation"></a>2. Feature Preprocessing and Generation</h2><h3 id="1-Numeric-Features"><a href="#1-Numeric-Features" class="headerlink" title="1 Numeric Features"></a>1 Numeric Features</h3><p>Tree-based 不需要scaling</p><p>但是Non-tree-based就非常依赖scaling</p><h4 id="preprocessing"><a href="#preprocessing" class="headerlink" title="preprocessing"></a>preprocessing</h4><h5 id="a-0-1-正则化"><a href="#a-0-1-正则化" class="headerlink" title="a. 0-1 正则化"></a>a. 0-1 正则化</h5><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sklearn.preprocessing.MinMaxScaler</span><br></pre></td></tr></table></figure><p>$X &#x3D; (X - X.min()) &#x2F; (X.max() - X.min()) $</p><h5 id="b-标准正则化"><a href="#b-标准正则化" class="headerlink" title="b. 标准正则化"></a>b. 标准正则化</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sklearn.preprocessing.StandardScaler</span><br></pre></td></tr></table></figure><p>$X &#x3D; (X - X.mean()) &#x2F; X.std() $</p><h5 id="c-异常值处理"><a href="#c-异常值处理" class="headerlink" title="c. 异常值处理"></a>c. 异常值处理</h5><ul><li>设定取值范围</li></ul><h5 id="d-rank"><a href="#d-rank" class="headerlink" title="d. rank"></a>d. rank</h5><ul><li>映射</li><li><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h6h0k7hdnkj20c203ct91.jpg" alt="rank"></li></ul><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">scipy.stats.rankdata</span><br></pre></td></tr></table></figure><p>非树型 或 神经网络可以用：</p><ul><li><p>Log </p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">np.log(1 + x)</span><br></pre></td></tr></table></figure></li><li><p>Raising to the power &lt; 1:</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">np.sqrt(x + 2/3)</span><br></pre></td></tr></table></figure></li></ul><h3 id="类别特征与顺序特征"><a href="#类别特征与顺序特征" class="headerlink" title="类别特征与顺序特征"></a>类别特征与顺序特征</h3><p>Label Encoding</p><h4 id="feature-generation"><a href="#feature-generation" class="headerlink" title="feature generation"></a>feature generation</h4><p>powered by:</p><ul><li>prior knowledge</li><li>EDA</li></ul>]]></content>
     
     
       
@@ -90,8 +140,8 @@
   
   <entry>
     <title>Redis持久化与主从复制</title>
-    <link href="https://www.bebella.cc/2022/09/23/Redis%E6%8C%81%E4%B9%85%E5%8C%96/"/>
-    <id>https://www.bebella.cc/2022/09/23/Redis%E6%8C%81%E4%B9%85%E5%8C%96/</id>
+    <link href="https://www.bebella.cc/2022/09/23/%E3%80%90%E5%AE%8C%E7%BB%93%E3%80%91Redis%E6%8C%81%E4%B9%85%E5%8C%96/"/>
+    <id>https://www.bebella.cc/2022/09/23/%E3%80%90%E5%AE%8C%E7%BB%93%E3%80%91Redis%E6%8C%81%E4%B9%85%E5%8C%96/</id>
     <published>2022-09-22T17:40:40.000Z</published>
     <updated>2022-09-27T08:15:05.077Z</updated>
     
