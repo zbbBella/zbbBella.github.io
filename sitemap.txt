@@ -1,4 +1,9 @@
 https://www.bebella.cc/2022/10/06/%E7%99%BD%E7%9B%92%E6%B5%8B%E8%AF%95%E6%8A%80%E6%9C%AF/
+https://www.bebella.cc/2022/10/19/MyBatis%E6%A1%86%E6%9E%B6/
+https://www.bebella.cc/2022/10/15/%E6%8A%A5%E9%94%99/
+https://www.bebella.cc/2022/10/18/redis%E5%AE%89%E8%A3%85%E4%B8%8E%E5%90%AF%E5%8A%A8/
+https://www.bebella.cc/2022/10/11/CSAPP-Lecture01-Course-Overview/
+https://www.bebella.cc/2022/10/10/%E9%AB%98%E8%B4%A8%E9%87%8F%E7%BC%96%E7%A0%81/
 https://www.bebella.cc/2022/10/06/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/
 https://www.bebella.cc/2022/09/23/Kaggle%E5%85%A5%E9%97%A8/
 https://www.bebella.cc/2022/09/23/%E3%80%90%E5%AE%8C%E7%BB%93%E3%80%91Redis%E6%8C%81%E4%B9%85%E5%8C%96/

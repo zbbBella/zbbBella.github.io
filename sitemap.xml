@@ -4,7 +4,52 @@
   <url>
     <loc>https://www.bebella.cc/2022/10/06/%E7%99%BD%E7%9B%92%E6%B5%8B%E8%AF%95%E6%8A%80%E6%9C%AF/</loc>
     
-    <lastmod>2022-10-06</lastmod>
+    <lastmod>2022-10-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.bebella.cc/2022/10/19/MyBatis%E6%A1%86%E6%9E%B6/</loc>
+    
+    <lastmod>2022-10-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.bebella.cc/2022/10/15/%E6%8A%A5%E9%94%99/</loc>
+    
+    <lastmod>2022-10-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.bebella.cc/2022/10/18/redis%E5%AE%89%E8%A3%85%E4%B8%8E%E5%90%AF%E5%8A%A8/</loc>
+    
+    <lastmod>2022-10-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.bebella.cc/2022/10/11/CSAPP-Lecture01-Course-Overview/</loc>
+    
+    <lastmod>2022-10-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.bebella.cc/2022/10/10/%E9%AB%98%E8%B4%A8%E9%87%8F%E7%BC%96%E7%A0%81/</loc>
+    
+    <lastmod>2022-10-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -103,7 +148,7 @@
 
   <url>
     <loc>https://www.bebella.cc/</loc>
-    <lastmod>2022-10-06</lastmod>
+    <lastmod>2022-10-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -111,28 +156,28 @@
   
   <url>
     <loc>https://www.bebella.cc/tags/%E8%BD%AF%E5%B7%A5%E5%AE%9E%E8%B7%B5/</loc>
-    <lastmod>2022-10-06</lastmod>
+    <lastmod>2022-10-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.bebella.cc/tags/Redis/</loc>
-    <lastmod>2022-10-06</lastmod>
+    <lastmod>2022-10-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.bebella.cc/tags/Kaggle/</loc>
-    <lastmod>2022-10-06</lastmod>
+    <lastmod>2022-10-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.bebella.cc/tags/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2022-10-06</lastmod>
+    <lastmod>2022-10-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -141,28 +186,28 @@
   
   <url>
     <loc>https://www.bebella.cc/categories/NoSQL/</loc>
-    <lastmod>2022-10-06</lastmod>
+    <lastmod>2022-10-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.bebella.cc/categories/DataScience/</loc>
-    <lastmod>2022-10-06</lastmod>
+    <lastmod>2022-10-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.bebella.cc/categories/%E8%BD%AF%E5%B7%A5%E5%AE%9E%E8%B7%B5/</loc>
-    <lastmod>2022-10-06</lastmod>
+    <lastmod>2022-10-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.bebella.cc/categories/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2022-10-06</lastmod>
+    <lastmod>2022-10-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
