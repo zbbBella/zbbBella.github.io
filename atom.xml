@@ -6,7 +6,7 @@
   <link href="https://www.bebella.cc/atom.xml" rel="self"/>
   
   <link href="https://www.bebella.cc/"/>
-  <updated>2023-03-05T07:42:51.624Z</updated>
+  <updated>2023-03-05T08:08:34.331Z</updated>
   <id>https://www.bebella.cc/</id>
   
   <author>
@@ -21,11 +21,13 @@
     <link href="https://www.bebella.cc/2023/03/05/%E3%80%90CCF-CSP%E3%80%9113%E5%B9%B412%E6%9C%88/"/>
     <id>https://www.bebella.cc/2023/03/05/%E3%80%90CCF-CSP%E3%80%9113%E5%B9%B412%E6%9C%88/</id>
     <published>2023-03-05T07:42:51.000Z</published>
-    <updated>2023-03-05T07:42:51.624Z</updated>
+    <updated>2023-03-05T08:08:34.331Z</updated>
     
     
     
     
+    
+    <category term="CSP" scheme="https://www.bebella.cc/tags/CSP/"/>
     
   </entry>
   
