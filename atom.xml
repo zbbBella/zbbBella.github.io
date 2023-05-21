@@ -6,7 +6,7 @@
   <link href="https://www.bebella.cc/atom.xml" rel="self"/>
   
   <link href="https://www.bebella.cc/"/>
-  <updated>2023-03-27T10:17:10.052Z</updated>
+  <updated>2023-05-08T16:27:11.612Z</updated>
   <id>https://www.bebella.cc/</id>
   
   <author>
@@ -15,6 +15,94 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【自然语言处理】三国演义分析</title>
+    <link href="https://www.bebella.cc/2023/05/08/%E3%80%90%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E3%80%91%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89%E5%88%86%E6%9E%90/"/>
+    <id>https://www.bebella.cc/2023/05/08/%E3%80%90%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E3%80%91%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89%E5%88%86%E6%9E%90/</id>
+    <published>2023-05-08T11:15:28.000Z</published>
+    <updated>2023-05-08T16:27:11.612Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="1-摘要（作业题目描述）"><a href="#1-摘要（作业题目描述）" class="headerlink" title="1. 摘要（作业题目描述）"></a>1. 摘要（作业题目描述）</h3><h3 id="2-算法分析"><a href="#2-算法分析" class="headerlink" title="2. 算法分析"></a>2. 算法分析</h3><h4 id="2-1-出场人物频率"><a href="#2-1-出场人物频率" class="headerlink" title="2.1 出场人物频率"></a>2.1 出场人物频率</h4><p>a) 构建一个非人名集合，用于下面统计词频时排除不是人名的单词；<br>b) 对《三国演义》文本利用jieba包进行分词；<br>c) 定义一个字典去存储分词结果和出现的次数；<br>d) 在统计词频时，由于长度为1的单词大概率不是人名，因此忽略长度为1的词；<br>e) 同时，某些人物会具有多个名字，因此对这些人物的不同名字需要分开判断；<br>f) 把字典中一些不是人名的词语排除掉；<br>g) 根据字典的键值进行排序；<br>h) 最后格式化输出结果并通过matplotlib将结果可视化。<br><img src="C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20230508215142614.png" alt="image-20230508215142614"></p><h4 id="2-2-词频分析"><a href="#2-2-词频分析" class="headerlink" title="2.2  词频分析"></a>2.2  词频分析</h4><p><img src="C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20230508223312492.png" alt="image-20230508223312492"></p><h4 id="2-3-人物关系网络的探索"><a href="#2-3-人物关系网络的探索" class="headerlink" title="2.3 人物关系网络的探索"></a>2.3 人物关系网络的探索</h4><h4 id="2-4-章节标题命名实体识别以及实体关系抽取"><a href="#2-4-章节标题命名实体识别以及实体关系抽取" class="headerlink" title="2.4 章节标题命名实体识别以及实体关系抽取"></a>2.4 章节标题命名实体识别以及实体关系抽取</h4><hr><p>参考资料：</p><ol><li><p>Python-人物词频统计-jieba库-三国演义</p><p><a href="https://blog.csdn.net/q1694222672/article/details/82014385">https://blog.csdn.net/q1694222672/article/details/82014385</a></p></li><li><p>python 绘制三国演义人物关系图</p><p><a href="https://blog.csdn.net/wei_zhen_dong/article/details/103586780">https://blog.csdn.net/wei_zhen_dong/article/details/103586780</a></p></li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;1-摘要（作业题目描述）&quot;&gt;&lt;a href=&quot;#1-摘要（作业题目描述）&quot; class=&quot;headerlink&quot; title=&quot;1. 摘要（作业题目描述）&quot;&gt;&lt;/a&gt;1. 摘要（作业题目描述）&lt;/h3&gt;&lt;h3 id=&quot;2-算法分析&quot;&gt;&lt;a href=&quot;#2-算法分</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>【雅思】口语</title>
+    <link href="https://www.bebella.cc/2023/05/05/%E3%80%90%E9%9B%85%E6%80%9D%E3%80%91%E5%8F%A3%E8%AF%AD/"/>
+    <id>https://www.bebella.cc/2023/05/05/%E3%80%90%E9%9B%85%E6%80%9D%E3%80%91%E5%8F%A3%E8%AF%AD/</id>
+    <published>2023-05-05T10:54:18.000Z</published>
+    <updated>2023-05-05T11:02:45.262Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h2><h2 id="Part-1"><a href="#Part-1" class="headerlink" title="Part 1"></a>Part 1</h2><h3 id="“do”，”did-“-”does”类问题"><a href="#“do”，”did-“-”does”类问题" class="headerlink" title="“do”，”did “,”does”类问题"></a>“do”，”did “,”does”类问题</h3><p>肯定回答：<br>Sure, absolutely<br>Oh, yeah, for sure<br>Yeah, I do actually<br>Sure, I can’t get enough of……</p><p>否定回答：<br>No, not for me<br>No, not at all<br>No, it’s not my favorite thing in the world<br>no, it’s not up my street actually</p><h3 id="雅思口语考试现场没听懂"><a href="#雅思口语考试现场没听懂" class="headerlink" title="雅思口语考试现场没听懂"></a>雅思口语考试现场没听懂</h3><p>I’m sorry, I didn’t follow&#x2F;catch it.  或者I didn’t get it.</p><p>Can you paraphrase&#x2F;rephrase it? </p><p>不要说Pardon</p><h2 id="Part-2"><a href="#Part-2" class="headerlink" title="Part 2"></a>Part 2</h2><h2 id="Part-3"><a href="#Part-3" class="headerlink" title="Part 3"></a>Part 3</h2><h2 id="Others"><a href="#Others" class="headerlink" title="Others"></a>Others</h2><ol><li>声音要大、音调起伏</li><li>语速要慢：自信、稳重、流出时间思考</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Introduction&quot;&gt;&lt;a href=&quot;#Introduction&quot; class=&quot;headerlink&quot; title=&quot;Introduction&quot;&gt;&lt;/a&gt;Introduction&lt;/h2&gt;&lt;h2 id=&quot;Part-1&quot;&gt;&lt;a href=&quot;#Part-1&quot;</summary>
+      
+    
+    
+    
+    
+    <category term="雅思" scheme="https://www.bebella.cc/tags/%E9%9B%85%E6%80%9D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【雅思】 顾家北写作</title>
+    <link href="https://www.bebella.cc/2023/04/08/%E3%80%90%E9%9B%85%E6%80%9D%E3%80%91%E9%A1%BE%E5%AE%B6%E5%8C%97%E5%86%99%E4%BD%9C/"/>
+    <id>https://www.bebella.cc/2023/04/08/%E3%80%90%E9%9B%85%E6%80%9D%E3%80%91%E9%A1%BE%E5%AE%B6%E5%8C%97%E5%86%99%E4%BD%9C/</id>
+    <published>2023-04-08T05:48:24.000Z</published>
+    <updated>2023-05-02T12:08:51.180Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Task1"><a href="#Task1" class="headerlink" title="Task1"></a>Task1</h2><h3 id="动态图"><a href="#动态图" class="headerlink" title="动态图"></a>动态图</h3><h4 id="1-线图"><a href="#1-线图" class="headerlink" title="1. 线图"></a>1. 线图</h4><h4 id="2-线图，有预测值"><a href="#2-线图，有预测值" class="headerlink" title="2. 线图，有预测值"></a>2. 线图，有预测值</h4><p>不要加入揣测、建议，按照图上的说就行</p><ul><li>line graph 线图</li><li>throughout the period 贯穿整个时期</li><li>fluctuation(s) 可以有复数</li></ul><h4 id="3-饼图，百分比"><a href="#3-饼图，百分比" class="headerlink" title="3. 饼图，百分比"></a>3. 饼图，百分比</h4><ul><li><p>pie chart</p></li><li><p>present the finding of  a survey about ……</p></li><li><p>next consideration 次要考虑</p></li><li><p>different patterns were seen in the changes to the other n factors …. （段落衔接，表示：与前面不同的是）</p></li><li><p>fivefold 五倍 &#x3D;&gt; nfold n倍</p></li><li><p>triple 三倍</p></li><li><p>tertiary education 高等教育</p></li><li><p>access to the amenities and sports facilities 便利设施和体育设施</p></li></ul><h4 id="4-表格"><a href="#4-表格" class="headerlink" title="4. 表格"></a>4. 表格</h4><ul><li>table</li><li>provide information about …. 提供xxx的信息</li><li>rise 通常是好的提升</li><li>noticeably 显著的</li><li>worsening 坏的提升、恶化 adj.</li></ul><h4 id="5-amp-6-饼图，两组描述对象"><a href="#5-amp-6-饼图，两组描述对象" class="headerlink" title="5&amp;6. 饼图，两组描述对象"></a>5&amp;6. 饼图，两组描述对象</h4><ul><li>projected figures 预测的图</li><li>biggest one &#x2F; sector &#x2F; section&#x2F; slice of pie</li></ul><h4 id="7-柱状图，两组描述对象"><a href="#7-柱状图，两组描述对象" class="headerlink" title="7. 柱状图，两组描述对象"></a>7. 柱状图，两组描述对象</h4><ul><li>respectively</li></ul><h3 id="静态图"><a href="#静态图" class="headerlink" title="静态图"></a>静态图</h3><h4 id="1-柱状图"><a href="#1-柱状图" class="headerlink" title="1 柱状图"></a>1 柱状图</h4><ul><li>Similarly</li><li>around twice as high as the figure for women</li><li>xx gap</li><li>xx were favoured by a larger proportion of female students</li><li>the .. difference was less clear  区别不明显 &#x2F; 差别不大</li></ul><h4 id="2-饼图-多图"><a href="#2-饼图-多图" class="headerlink" title="2 饼图 + 多图"></a>2 饼图 + 多图</h4><ul><li>the chart and the table provide information on the main reasons for ……</li><li>xxx has the greatest impact on …, two other major causes are…</li></ul><h4 id="3-柱状图-多图"><a href="#3-柱状图-多图" class="headerlink" title="3 柱状图 + 多图"></a>3 柱状图 + 多图</h4><ul><li>the vast majority of …, compared with ….</li></ul><h3 id="流程图"><a href="#流程图" class="headerlink" title="流程图"></a>流程图</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Task1&quot;&gt;&lt;a href=&quot;#Task1&quot; class=&quot;headerlink&quot; title=&quot;Task1&quot;&gt;&lt;/a&gt;Task1&lt;/h2&gt;&lt;h3 id=&quot;动态图&quot;&gt;&lt;a href=&quot;#动态图&quot; class=&quot;headerlink&quot; title=&quot;动态图&quot;&gt;&lt;/</summary>
+      
+    
+    
+    
+    
+    <category term="雅思" scheme="https://www.bebella.cc/tags/%E9%9B%85%E6%80%9D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【专业课】数据结构</title>
+    <link href="https://www.bebella.cc/2023/04/07/%E3%80%90%E4%B8%93%E4%B8%9A%E8%AF%BE%E3%80%91%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    <id>https://www.bebella.cc/2023/04/07/%E3%80%90%E4%B8%93%E4%B8%9A%E8%AF%BE%E3%80%91%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</id>
+    <published>2023-04-07T11:36:34.000Z</published>
+    <updated>2023-04-07T11:55:46.973Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="第2章-线性表"><a href="#第2章-线性表" class="headerlink" title="第2章 线性表"></a>第2章 线性表</h2><h3 id="2-1-线性表类型定义"><a href="#2-1-线性表类型定义" class="headerlink" title="2.1  线性表类型定义"></a>2.1  线性表类型定义</h3><h3 id="2-2-线性表的顺序表示和实现"><a href="#2-2-线性表的顺序表示和实现" class="headerlink" title="2.2 线性表的顺序表示和实现"></a>2.2 线性表的顺序表示和实现</h3><h3 id="2-3-线性表的链式表示和实现"><a href="#2-3-线性表的链式表示和实现" class="headerlink" title="2.3 线性表的链式表示和实现"></a>2.3 线性表的链式表示和实现</h3><h3 id="2-4-一元多项式的表示及相加"><a href="#2-4-一元多项式的表示及相加" class="headerlink" title="2.4 一元多项式的表示及相加"></a>2.4 一元多项式的表示及相加</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;第2章-线性表&quot;&gt;&lt;a href=&quot;#第2章-线性表&quot; class=&quot;headerlink&quot; title=&quot;第2章 线性表&quot;&gt;&lt;/a&gt;第2章 线性表&lt;/h2&gt;&lt;h3 id=&quot;2-1-线性表类型定义&quot;&gt;&lt;a href=&quot;#2-1-线性表类型定义&quot; class=&quot;he</summary>
+      
+    
+    
+    
+    
+    <category term="专业课" scheme="https://www.bebella.cc/tags/%E4%B8%93%E4%B8%9A%E8%AF%BE/"/>
+    
+    <category term="数据结构" scheme="https://www.bebella.cc/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+  </entry>
   
   <entry>
     <title>【雅思】刘洪波阅读</title>
@@ -39,8 +127,8 @@
   
   <entry>
     <title>算法基础(一)</title>
-    <link href="https://www.bebella.cc/2023/03/06/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/"/>
-    <id>https://www.bebella.cc/2023/03/06/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/</id>
+    <link href="https://www.bebella.cc/2023/03/06/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80%EF%BC%88%E4%B8%80%EF%BC%89/"/>
+    <id>https://www.bebella.cc/2023/03/06/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80%EF%BC%88%E4%B8%80%EF%BC%89/</id>
     <published>2023-03-06T08:56:26.000Z</published>
     <updated>2023-04-03T12:21:48.039Z</updated>
     
@@ -347,82 +435,6 @@
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>CSAPP Lecture01 Course Overview</title>
-    <link href="https://www.bebella.cc/2022/10/11/CSAPP-Lecture01-Course-Overview/"/>
-    <id>https://www.bebella.cc/2022/10/11/CSAPP-Lecture01-Course-Overview/</id>
-    <published>2022-10-11T07:20:22.000Z</published>
-    <updated>2022-10-12T11:48:22.836Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>高质量编码</title>
-    <link href="https://www.bebella.cc/2022/10/10/%E9%AB%98%E8%B4%A8%E9%87%8F%E7%BC%96%E7%A0%81/"/>
-    <id>https://www.bebella.cc/2022/10/10/%E9%AB%98%E8%B4%A8%E9%87%8F%E7%BC%96%E7%A0%81/</id>
-    <published>2022-10-10T11:11:55.000Z</published>
-    <updated>2022-10-10T11:11:55.160Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>白盒测试技术</title>
-    <link href="https://www.bebella.cc/2022/10/06/%E7%99%BD%E7%9B%92%E6%B5%8B%E8%AF%95%E6%8A%80%E6%9C%AF/"/>
-    <id>https://www.bebella.cc/2022/10/06/%E7%99%BD%E7%9B%92%E6%B5%8B%E8%AF%95%E6%8A%80%E6%9C%AF/</id>
-    <published>2022-10-06T12:42:33.000Z</published>
-    <updated>2022-10-27T17:33:15.077Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="（一）白盒测试技术概述"><a href="#（一）白盒测试技术概述" class="headerlink" title="（一）白盒测试技术概述"></a>（一）白盒测试技术概述</h2><h3 id="1-白盒测试基本原理"><a href="#1-白盒测试基本原理" class="headerlink" title="1. 白盒测试基本原理"></a>1. 白盒测试基本原理</h3><ul><li><p>白盒测试，侧重系统or部件内部机制的测试。</p><blockquote><p>分支测试（判定节点测试）、路径测试、语句测试</p></blockquote></li><li><p>又称结构测试、透明盒测试、逻辑驱动测试or基于代码的测试。</p><p>已知产品的内部工作过程，主要对程序内部结构展开测试，关注程序实现的细节</p></li></ul><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h6vuwn5uuij207z03qglq.jpg" alt="image.png"></p><h3 id="2-白盒测试关注的对象"><a href="#2-白盒测试关注的对象" class="headerlink" title="2. 白盒测试关注的对象"></a>2. 白盒测试关注的对象</h3><ul><li>源代码</li><li>程序结构</li></ul><h3 id="3-白盒测试优缺点"><a href="#3-白盒测试优缺点" class="headerlink" title="3. 白盒测试优缺点"></a>3. 白盒测试优缺点</h3><p>优点：</p><ul><li>针对性强，便于快速定位，测试效率高</li><li>函数级别开始测试工作，缺陷修复成本低</li><li>通过不同的白盒覆盖指标有助于了解和衡量对被测对象的测试覆盖程度</li><li>有助于代码优化和缺陷预防</li></ul><p>缺点：</p><ul><li>对测试人员的技术要求高<ul><li>需要有一定的编程经验</li><li>白盒测试工程师需要具备广博的知识面</li></ul></li><li>成本高<ul><li>白盒测试的准备时间比较长</li></ul></li></ul><h3 id="4-白盒测试的问题"><a href="#4-白盒测试的问题" class="headerlink" title="4. 白盒测试的问题"></a>4. 白盒测试的问题</h3><ul><li>软件测试不是完备的</li><li>软件测试有风险</li><li>测试设计应该达到的目标<ul><li>提高效率</li><li>降低风险</li><li>在代码级别提高软件质量</li></ul></li></ul><h3 id="5-控制流分析技术"><a href="#5-控制流分析技术" class="headerlink" title="5. 控制流分析技术"></a>5. 控制流分析技术</h3><h4 id="1-什么是控制流分析？"><a href="#1-什么是控制流分析？" class="headerlink" title="1. 什么是控制流分析？"></a>1. 什么是控制流分析？</h4><p>就是根据程序的控制结构所反映的执行流流动规律建立起每一个程序执行点在控制结构中与其前驱或后继执行点在执行顺序上的对应关系，即流图。 流图直接反映了程序所有可能的执行路径以及执行流的运动规律</p><h4 id="2-控制流分析要解决的问题"><a href="#2-控制流分析要解决的问题" class="headerlink" title="2. 控制流分析要解决的问题"></a>2. 控制流分析要解决的问题</h4><ul><li>什么因素导致程序结构变的复杂</li><li>如何衡量程序结构的复杂程度</li><li>控制程序执行流程发生变化的主要因素是什么</li><li>如何测试这些因素并且确保测试的效率</li></ul><h4 id="3-控制流分析内容"><a href="#3-控制流分析内容" class="headerlink" title="3. 控制流分析内容"></a>3. 控制流分析内容</h4><ul><li>关注判定节点固有的复杂性<ul><li>焦点：判定表达式</li><li>方法：逻辑覆盖测试</li></ul></li><li>关注判定结构与循环结构对执行路径产生的影响<ul><li>焦点：路径</li><li>方法：基本（独立）路径测试</li></ul></li><li>关注循环结构本身复杂性<ul><li>焦点：循环体</li><li>方法：基于数据的静态分析</li></ul></li></ul><h3 id="6-常见的程序结构"><a href="#6-常见的程序结构" class="headerlink" title="6. 常见的程序结构"></a>6. 常见的程序结构</h3><h4 id="1-线性结构"><a href="#1-线性结构" class="headerlink" title="1. 线性结构"></a>1. 线性结构</h4><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h6vv51fwedj20cc05st95.jpg" alt="线性结构"></p><h4 id="2-条件判定结构"><a href="#2-条件判定结构" class="headerlink" title="2. 条件判定结构"></a>2. 条件判定结构</h4><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h6vv5mnh4kj20fw066jse.jpg" alt="条件判定结构"></p><h4 id="3-While循环结构"><a href="#3-While循环结构" class="headerlink" title="3. While循环结构"></a>3. While循环结构</h4><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h6vv69vq17j20e505tmxv.jpg" alt="While循环结构"></p><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h6vv6z6f16j20cq05ht9f.jpg" alt="Do-While结构"></p><h3 id="7-白盒测试分类"><a href="#7-白盒测试分类" class="headerlink" title="7. 白盒测试分类"></a>7. 白盒测试分类</h3><p>可以分为两大类</p><h4 id="1-动态白盒测试"><a href="#1-动态白盒测试" class="headerlink" title="1. 动态白盒测试"></a>1. 动态白盒测试</h4><p>又称结构化测试。运行使用程序条件下找bug。</p><p>主要有逻辑覆盖测试、基本（独立）路径测试</p><h4 id="2-静态白盒测试"><a href="#2-静态白盒测试" class="headerlink" title="2. 静态白盒测试"></a>2. 静态白盒测试</h4><p>又称结构分析。不执行软件的条件下找出bug</p><p>主要有静态结构分析、静态质量度量、代码检查方法等等。</p><h3 id="8-逻辑覆盖猜测试（对判定）"><a href="#8-逻辑覆盖猜测试（对判定）" class="headerlink" title="8. 逻辑覆盖猜测试（对判定）"></a>8. 逻辑覆盖猜测试（对判定）</h3><p>原理：以程序内部的逻辑结构为基础的用例设计方法，通过对程序的逻辑结构的遍历，来实现测试对程序的覆盖。</p><p>关注点：判定表达式本身的复杂度</p><p>基本原则：对程序代码中所有的逻辑值，都需要测试其真值（True）和假值（False）的情况 </p><p>根据不同测试要求，逻辑覆盖测试可以分为：</p><ul><li>语句覆盖</li><li>判定覆盖（分支覆盖）</li><li>条件覆盖</li><li>判定-条件覆盖（分支-条件覆盖）</li><li>条件组合覆盖</li><li>路径覆盖</li></ul><h4 id="逻辑测试相关概念"><a href="#逻辑测试相关概念" class="headerlink" title="逻辑测试相关概念"></a>逻辑测试相关概念</h4><p>测试覆盖率 ：</p><ul><li>$覆盖率 &#x3D; 至少被执行一次的item总数 &#x2F; item总数$<ul><li>功能覆盖率：大致用于表示软件已经实现的功能和软件需要实现的功能之间的比例关系</li><li>结构覆盖率：包括语句覆盖率，分支覆盖率，路径覆盖率，循环覆盖率</li></ul></li><li>不一定要达到100%，也可以设置一个指标，达到这个指标后就认为达到了测试的效果</li></ul><h4 id="1-语句覆盖"><a href="#1-语句覆盖" class="headerlink" title="1. 语句覆盖"></a>1. 语句覆盖</h4><h5 id="基本思想："><a href="#基本思想：" class="headerlink" title="基本思想："></a>基本思想：</h5><p>设计测试用例时应保证程序中<strong>每一条可执行语句至少应该执行一次</strong>（点覆盖）</p><p>语句覆盖是最弱的一种覆盖标准</p><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h6w83fprpuj20h407u3z9.jpg" alt="语句覆盖"></p><h5 id="弊端："><a href="#弊端：" class="headerlink" title="弊端："></a>弊端：</h5><ul><li>关注语句，而非关注判定节点</li><li>对隐式分支无效</li></ul><h5 id="对策："><a href="#对策：" class="headerlink" title="对策："></a>对策：</h5><ul><li>优选测试数据</li><li>更强的覆盖准则：判定覆盖</li></ul><h4 id="2-判定覆盖"><a href="#2-判定覆盖" class="headerlink" title="2. 判定覆盖"></a>2. 判定覆盖</h4><h5 id="基本思想：-1"><a href="#基本思想：-1" class="headerlink" title="基本思想："></a>基本思想：</h5><p>又称分支覆盖。设计测试用例时，要保证程序中<strong>每个判定节点</strong>取得每种可能的结果至少一次。或者程序中每个判定的真分支和假分支至少执行一次。（边覆盖）</p><h5 id="局限性："><a href="#局限性：" class="headerlink" title="局限性："></a>局限性：</h5><ul><li>当判断节点中包含的是复合判定表达式时，即由多个简单判定条件（子条件）通过“与”、“或”关系连接而成的判定</li><li>此时，判定覆盖仅关心表达式的整体取值，并不关系局部组成，导致漏洞</li><li>故需要更严格的覆盖准则—-条件覆盖</li></ul><h4 id="3-条件覆盖"><a href="#3-条件覆盖" class="headerlink" title="3. 条件覆盖"></a>3. 条件覆盖</h4><h5 id="基本思想：-2"><a href="#基本思想：-2" class="headerlink" title="基本思想："></a>基本思想：</h5><p>设计测试用例时应保证程序中<strong>每个复合判定表达式</strong>中，每个简单的判定条件（子条件）的取真和取假情况至少执行一次。</p><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h6w8s98hajj205v02jdg3.jpg" alt="条件覆盖"></p><p>实际上belike拆分成原子语句</p><p>局限性：</p><ul><li>并不能确保满足判定覆盖</li><li>相比判定覆盖，条件覆盖虽然进一步深入检查了判定节点中的每个子条件，但局部的完全覆盖不能保证对判定节点整体的完全覆盖</li><li>so需要更全面的覆盖准则—-判定-条件覆盖</li></ul><h4 id="4-判定-条件覆盖"><a href="#4-判定-条件覆盖" class="headerlink" title="4. 判定-条件覆盖"></a>4. 判定-条件覆盖</h4><p>设计测试用例时，满足以下条件：</p><ul><li><p>判定节点的取真、取假分支至少执行一次</p></li><li><p>且每个简单的判定条件（子条件）的取真和取假情况也至少执行一次</p><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h6w9k3n7s8j20gr050q4w.jpg" alt="判定-条件覆盖"></p></li></ul><h4 id="5-条件组合覆盖"><a href="#5-条件组合覆盖" class="headerlink" title="5. 条件组合覆盖"></a>5. 条件组合覆盖</h4><p>每个判定节点中，所有简单判定条件（子条件）的所有可能的取值组合情况至少执行一次</p><p>本质：通过列真值表来得到完全覆盖</p><p>优势：</p><ul><li>覆盖前面all</li><li>方法简单，穷举法</li></ul><p>局限性：</p><ul><li>不能保证所有组合的路径被执行</li><li>测试用例太多</li><li>冗余严重</li></ul><h4 id="6-路径覆盖"><a href="#6-路径覆盖" class="headerlink" title="6. 路径覆盖"></a>6. 路径覆盖</h4><h5 id="基本要求："><a href="#基本要求：" class="headerlink" title="基本要求："></a>基本要求：</h5><p>要求设计足够的测试用例，运行被测程序，覆盖程序中all可能组合的路径</p><p>范围最广</p><h4 id="7-各方法之间关系"><a href="#7-各方法之间关系" class="headerlink" title="7. 各方法之间关系"></a>7. 各方法之间关系</h4><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h6w9x227dsj20hj07o401.jpg" alt="对比图"></p><h2 id="（二）逻辑覆盖测试-x2F-对判定的测试"><a href="#（二）逻辑覆盖测试-x2F-对判定的测试" class="headerlink" title="（二）逻辑覆盖测试&#x2F;对判定的测试"></a>（二）逻辑覆盖测试&#x2F;对判定的测试</h2><h2 id="（三）基本路径测试-x2F-对路径的测试"><a href="#（三）基本路径测试-x2F-对路径的测试" class="headerlink" title="（三）基本路径测试&#x2F;对路径的测试"></a>（三）基本路径测试&#x2F;对路径的测试</h2><h3 id="1-相关术语概念"><a href="#1-相关术语概念" class="headerlink" title="1. 相关术语概念"></a>1. 相关术语概念</h3><p><strong>在程序控制流图中</strong>，通过对控制构造的环路复杂性分析而导出的基本的，可执行的独立路径集合。</p><p><strong>基本路径测试：</strong></p><p><strong>工作原理：</strong>借鉴线性代数的向量空间和向量基的概念，将程序中所有路径的集合看作一个向量空间，其中有限条的路径构成一组向量基，这组向量基对应的路径线性无关，或这组路径相互独立，即是独立路径，路径集合中其余非独立路径都可以用这组向量基来表示。测试这组向量基对应的独立路径就等同于对整个路径集合进行测试。之后根据独立路径设计测试用例。</p><h4 id="控制流图-x2F-程序图"><a href="#控制流图-x2F-程序图" class="headerlink" title="控制流图&#x2F;程序图"></a>控制流图&#x2F;程序图</h4><ul><li>控制流图：由节点和控制流线两种图形符号组成</li><li>用来表示程序结构的一种有向图</li><li>节点以标有编号的圆圈表示</li></ul><h4 id="环复杂度-x2F-圈复杂度"><a href="#环复杂度-x2F-圈复杂度" class="headerlink" title="环复杂度&#x2F;圈复杂度"></a>环复杂度&#x2F;圈复杂度</h4><p>环复杂度的计算：</p><ol><li><p>直观观察法</p><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h7cn0xg3mij20dy070jsd.jpg" alt="McCabe"></p></li><li><p>公式计算法</p><ul><li>注意前提</li></ul><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h7cn4ohzfnj20li099q5f.jpg" alt="计算法"></p></li><li><p>判定节点法</p><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h7cn5lxc5pj20gr08qta6.jpg" alt="判定节点法"></p></li></ol><h3 id="2-路径测试要解决的关键问题"><a href="#2-路径测试要解决的关键问题" class="headerlink" title="2. 路径测试要解决的关键问题"></a>2. 路径测试要解决的关键问题</h3><h4 id="1-如何获得独立路径所需要的路径地图？"><a href="#1-如何获得独立路径所需要的路径地图？" class="headerlink" title="1. 如何获得独立路径所需要的路径地图？"></a>1. 如何获得独立路径所需要的路径地图？</h4><h5 id="生成路径地图："><a href="#生成路径地图：" class="headerlink" title="生成路径地图："></a>生成路径地图：</h5><ul><li>程序流程图、控制流图&#x2F;程序图</li><li>共性：<ul><li>能准确反映程序结构</li><li>可以完整反映程序的所有执行路径</li><li>具有唯一性</li></ul></li><li>选择<strong>控制流图&#x2F;程序图</strong>作为路径地图</li></ul><h4 id="2-如何计算独立路径集合的规模？"><a href="#2-如何计算独立路径集合的规模？" class="headerlink" title="2. 如何计算独立路径集合的规模？"></a>2. 如何计算独立路径集合的规模？</h4><p>根据McCabe理论，<strong>独立路径集合的规模&#x3D;程序图的环复杂度</strong></p><h4 id="3-根据给定的路径集合，如何找到一组独立路径？确保路径的独立性和基本路径测试的完备性。"><a href="#3-根据给定的路径集合，如何找到一组独立路径？确保路径的独立性和基本路径测试的完备性。" class="headerlink" title="3. 根据给定的路径集合，如何找到一组独立路径？确保路径的独立性和基本路径测试的完备性。"></a>3. 根据给定的路径集合，如何找到一组独立路径？确保路径的独立性和基本路径测试的完备性。</h4><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h7cv3vl1rvj20ne0aw0wl.jpg" alt="独立路径"></p><p>主路径：选取包含判定节点最多的路径作为主路径</p><h3 id="3-关于不可达路径"><a href="#3-关于不可达路径" class="headerlink" title="3.  关于不可达路径"></a>3.  关于不可达路径</h3><p>不可行路径不能用于设计测试用例</p><p>不可行路径对测试带来的影响：</p><ul><li>破坏了基本路径测试的完备性和无冗余性</li><li>增大了测试用例设计的难度</li></ul><p>如何处理不可行路径？</p><ul><li>结合源代码寻找独立路径，确保可实际执行</li><li>去掉不可行路径</li><li>为降低风险，补充其他具有较高风险的路径进行测试</li></ul><h3 id="4-测试分析"><a href="#4-测试分析" class="headerlink" title="4. 测试分析"></a>4. 测试分析</h3><ul><li>基本路径测试的理论基础保证了测试的完备行和无冗余性</li><li>使用基本路径测试能够保证语句覆盖</li><li>基本路径测试是用于多个判定节点串联和存在循环的情况</li><li>避免引入不可行了路径是程序优化的思想</li><li>基于程序图and环复杂度的基本路径测试仅关注<strong>结构的测试覆盖</strong></li></ul><h3 id="补充：循环测试"><a href="#补充：循环测试" class="headerlink" title="补充：循环测试"></a>补充：循环测试</h3><p>从本质上说，循环测试的目的：</p><ul><li>检查循环结构的有效性，循环过程的正确性</li></ul><p>通常循环可以分为四类：</p><ul><li>简单循环</li><li>嵌套循环</li><li>串接循环</li><li>非结构循环</li></ul><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h7cvzxgga4j20f207i76g.jpg" alt="循环分类"></p><h4 id="1-测试简单循环"><a href="#1-测试简单循环" class="headerlink" title="1. 测试简单循环"></a>1. 测试简单循环</h4><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h7cw0majhkj20n608iwgx.jpg" alt="image.png"></p><h4 id="2-测试嵌套循环"><a href="#2-测试嵌套循环" class="headerlink" title="2. 测试嵌套循环"></a>2. 测试嵌套循环</h4><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h7cw6ovsr1j20mh053mz8.jpg" alt="image.png"></p><h4 id="3-测试串接循环"><a href="#3-测试串接循环" class="headerlink" title="3. 测试串接循环"></a>3. 测试串接循环</h4><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h7cw83bamuj20ll01pjrr.jpg" alt="image.png"></p><h4 id="4-对于非结构循环"><a href="#4-对于非结构循环" class="headerlink" title="4. 对于非结构循环"></a>4. 对于非结构循环</h4><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h7cw88d0yrj20kq00pjrk.jpg" alt="image.png"></p><h3 id="补充2：Z路径覆盖测试"><a href="#补充2：Z路径覆盖测试" class="headerlink" title="补充2：Z路径覆盖测试"></a>补充2：Z路径覆盖测试</h3><p>路径覆盖的一种变体，将程序中的循环结构简化为选择结构</p><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h7cwqwxt8kj20mj02zjsq.jpg" alt="image.png"></p><h2 id="（四）静态白盒技术"><a href="#（四）静态白盒技术" class="headerlink" title="（四）静态白盒技术"></a>（四）静态白盒技术</h2><h3 id="0-概述"><a href="#0-概述" class="headerlink" title="0. 概述"></a>0. 概述</h3><p>静态白盒测试，又称为结构分析，是在不执行程序的条件下审查软件设计、体系结构和代码，从而找出软件缺陷的过程。测试对象是文档、代码等非计算机执行的部分</p><h4 id="为什么要静态测试？"><a href="#为什么要静态测试？" class="headerlink" title="为什么要静态测试？"></a>为什么要静态测试？</h4><p>为了降低缺陷修复的成本及发现缺陷的成本，应该在开发活动的早期进行静态测试，尽早在动态测试之前去发现缺陷并修改缺陷。</p><p><strong>软件测试是控制成本的关键</strong></p><h3 id="1-代码检查"><a href="#1-代码检查" class="headerlink" title="1. 代码检查"></a>1. 代码检查</h3><p>主要检查代码和程序设计的一致性，代码结构的合理性，代码编写的标准性、可读性，代码逻辑表达的正确性等方面。</p><p>主要参考文档为：</p><ul><li>程序设计文档</li><li>程序的源代码清单</li><li>编码规范</li><li>代码缺陷检查表等。</li></ul><p>代码检查能快速找到缺陷，一旦发现错误，能够在代码中对其进行精确定位，从而降低了错误修正的成本。代码检查看到的是问题本身而非问题的征兆。代码检查非常耗费时间，而且代码检查需要知识和经验的积累。</p><p>代码检查包括三种方式：</p><ul><li>代码审查</li><li>代码走查</li><li>桌面检查</li></ul><blockquote><p><strong>代码审查和走查</strong>都是以小组为单位阅读代码，它是一系列规程和错误检查方法的集合。</p><p><strong>代码审查</strong>主要是通过同行评审来发现缺陷。</p><p>同行评审，主要是以评审会议为形式，通过多人（软件工作产品生产者的同行）遵循已定义的规程对软件交付物（源代码、设计规格书等）进行技术评审。其核心是预防缺陷。其目的是发现和修复软件开发初期未发现的缺陷，获得改进优化的机会。同行评审往往需要大量投入时间和人力资源。</p></blockquote><h4 id="（1）代码审查—-同行评审"><a href="#（1）代码审查—-同行评审" class="headerlink" title="（1）代码审查—-同行评审"></a>（1）代码审查—-同行评审</h4><p>同行评审≠测试</p><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h7kca8qvkaj20fe095mzr.jpg" alt="image.png"></p><p>评审流程：</p><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h7kcb0ed7pj20jp07egoq.jpg" alt="image.png"></p><p>评审的五个角色：</p><ul><li>记录员</li><li>讲解员</li><li>主持人</li><li>程序编写者</li><li>评审员</li></ul><h4 id="2-简述同行评审流程"><a href="#2-简述同行评审流程" class="headerlink" title="2. 简述同行评审流程"></a>2. 简述同行评审流程</h4><p>（1）计划评审会议</p><ul><li>设计部门：评审前3天，向项目管理部门提交《设计和开发评审申请表》，经批准后进入计划评审会议阶段；</li><li>项目经理：根据申请表指定合适的会议主持人（协调员）；</li><li>作者（程序员）：提供工作产品用于评审，并确保工作产品符合相关标准和规范；</li><li>主持人（协调员）：规划本次评审会议，具体工作包括制定评审计划等。</li></ul><p>（2）召开评审预备会</p><p>评审人员向主持人提出申请，由主持人决定是否需要召开评审预备会。时间＜ 2h。<br>目的是确保参加正式评审会议的人员能清楚地了解评审流程和评审目的，正确理解自己的责任，且评审员得到的评审材料正确无误。</p><p>（3）准备评审会议</p><p>评审员：检查工作产品，记录发现的缺陷，填写审阅情况记录表，反馈给主持人</p><p>主持人：汇总收集的审阅情况记录表，并判断是否需要增加评审的投入</p><p>（4）召开正式评审会议</p><ul><li>主持人：召开会议。包括主持会议，控制会议进度,维持会议程<br>序，决定是否要召开第3小时会议，会后提交评审报告，给出评审<br>结论；</li><li>讲解员：讲解工作产品。引导评审员浏览工作产品；<br>共同确认问题；</li><li>评审员：听取讲解,发表意见，指出问题,与作者确定问题、定<br>义问题的严重程度：</li><li>作者倾听讲解和评审员的意见，回答提问；</li><li>记录员：记录每个达成共识的缺陷,确保评审员同意对问题的记<br>录，并记录未达成共识的缺陷.标记为TBD （待确定），作为第3<br>小时会议评审的对象更新审阅情况记录表</li></ul><p>（5）召开第3小时会议</p><ul><li>主持人：主持会议，维持会议程序，控制会议进度，并在会议结束后负责更新审阅情况记录表,撰写评审报告,给出评审结论。</li><li>评审员：对标记为TBD的问题进行讨论，给出确定的意见，并针对已经达成共识的缺陷的修复方案提出自己的意见。</li><li>作者：倾听评审员的意见，提出自己的看法。</li><li>记录员：记录每个达成共识的缺陷及其对应的解决方案。</li></ul><p>（6）修复缺陷</p><p>作者（程序员）：修改工作产品。针对提交的审阅情况记录表，对每个缺陷进行定位、调试和修复，然后提交修复后的工作产品，同时更新审阅情况记录表，在表格中简要说明对每个缺陷的修复过程。对缺陷清单进行分析和整理，以便于对缺陷检查表进行扩充，在后续的静态测试中，提供给评审员，从而提高后续静态测试的效率。</p><p>（7）确认修复</p><ul><li>主持人：指派专人对修复后的工作产品进行确认。查看最终提交的审阅情况记录表，判断工作产品是否符合退出标准。</li><li>评审员：对照更新后的审阅情况记录表，检查修复后的工作产品，判断是否所有缺陷均得到正确的修复，且未弓I入新的缺陷。否则打回给作者要求其继续修复。若所有缺陷都已确认修复，则更新审阅情况记录表，并提交给主持人。</li></ul><h2 id="（五）白盒测试工具Junit的使用"><a href="#（五）白盒测试工具Junit的使用" class="headerlink" title="（五）白盒测试工具Junit的使用"></a>（五）白盒测试工具Junit的使用</h2>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;（一）白盒测试技术概述&quot;&gt;&lt;a href=&quot;#（一）白盒测试技术概述&quot; class=&quot;headerlink&quot; title=&quot;（一）白盒测试技术概述&quot;&gt;&lt;/a&gt;（一）白盒测试技术概述&lt;/h2&gt;&lt;h3 id=&quot;1-白盒测试基本原理&quot;&gt;&lt;a href=&quot;#1-白盒测试基</summary>
-      
-    
-    
-    
-    <category term="软件测试" scheme="https://www.bebella.cc/categories/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/"/>
-    
-    
-    <category term="软件测试" scheme="https://www.bebella.cc/tags/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>软件测试基础</title>
-    <link href="https://www.bebella.cc/2022/10/06/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/"/>
-    <id>https://www.bebella.cc/2022/10/06/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/</id>
-    <published>2022-10-06T10:57:01.000Z</published>
-    <updated>2022-10-06T12:42:00.118Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="6-什么是软件缺陷（BUG）"><a href="#6-什么是软件缺陷（BUG）" class="headerlink" title="6. 什么是软件缺陷（BUG）"></a>6. 什么是软件缺陷（BUG）</h4><p>第一个bug：</p><ul><li>Grace Hopper 计算机软件之母</li><li>1945.9.9</li><li>First actual case of bug being found</li></ul><p>著名软件故障：</p><ul><li>”算不准”的cpu【功能问题】</li><li>“哭泣”的狮子王【兼容性问题】</li><li>“失控”的动车【容错性问题】</li><li>“消失”的火星探测器【集成性问题】</li><li>“拒绝访问”的Gmail【性能问题】</li></ul><p>软件测试的必要性：</p><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h6vrviftnmj20jv05f0ud.jpg" alt="image.png"></p><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h6vrvw4aewj20k002dwf8.jpg" alt="image.png"></p><p>软件缺陷的正式定义：（符合一个就算）</p><ol><li>软件测试员认为难以理解，不易使用，运行速度缓慢or最终用户认为软件是用效果不好的</li><li>软件未达到需求规格说明书中指明的功能</li><li>软件出现了需求规格说明书中不会出现的错误</li><li>软件功能超出需求规格说明书中指明的范围</li><li>软件未达到需求规格说明书总虽未指出但应该达到的指标</li></ol><h4 id="7-什么是测试用例"><a href="#7-什么是测试用例" class="headerlink" title="7. 什么是测试用例"></a>7. 什么是测试用例</h4><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h6vs2h9qazj20e502l3z2.jpg" alt="image.png"></p><p>测试用例的基本属性</p><ul><li>典型性（代表性）</li><li>可测试性（可判定性）</li><li>可重现性</li><li>独立性</li></ul>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h4 id=&quot;6-什么是软件缺陷（BUG）&quot;&gt;&lt;a href=&quot;#6-什么是软件缺陷（BUG）&quot; class=&quot;headerlink&quot; title=&quot;6. 什么是软件缺陷（BUG）&quot;&gt;&lt;/a&gt;6. 什么是软件缺陷（BUG）&lt;/h4&gt;&lt;p&gt;第一个bug：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li</summary>
-      
-    
-    
-    
-    <category term="软件测试" scheme="https://www.bebella.cc/categories/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/"/>
-    
-    
-    <category term="软件测试" scheme="https://www.bebella.cc/tags/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
