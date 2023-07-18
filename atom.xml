@@ -6,7 +6,7 @@
   <link href="https://www.bebella.cc/atom.xml" rel="self"/>
   
   <link href="https://www.bebella.cc/"/>
-  <updated>2023-07-06T13:23:08.030Z</updated>
+  <updated>2023-07-18T01:20:40.924Z</updated>
   <id>https://www.bebella.cc/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【计划】考研相关信息</title>
+    <link href="https://www.bebella.cc/2023/07/18/%E3%80%90%E8%AE%A1%E5%88%92%E3%80%91%E8%80%83%E7%A0%94%E7%9B%B8%E5%85%B3%E4%BF%A1%E6%81%AF/"/>
+    <id>https://www.bebella.cc/2023/07/18/%E3%80%90%E8%AE%A1%E5%88%92%E3%80%91%E8%80%83%E7%A0%94%E7%9B%B8%E5%85%B3%E4%BF%A1%E6%81%AF/</id>
+    <published>2023-07-18T01:20:40.000Z</published>
+    <updated>2023-07-18T01:20:40.924Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>【算法】双链表</title>
@@ -462,32 +475,6 @@
       
       
     <summary type="html">&lt;h2 id=&quot;（一）白盒测试技术概述&quot;&gt;&lt;a href=&quot;#（一）白盒测试技术概述&quot; class=&quot;headerlink&quot; title=&quot;（一）白盒测试技术概述&quot;&gt;&lt;/a&gt;（一）白盒测试技术概述&lt;/h2&gt;&lt;h3 id=&quot;1-白盒测试基本原理&quot;&gt;&lt;a href=&quot;#1-白盒测试基</summary>
-      
-    
-    
-    
-    <category term="课程作业" scheme="https://www.bebella.cc/categories/%E8%AF%BE%E7%A8%8B%E4%BD%9C%E4%B8%9A/"/>
-    
-    
-    <category term="软件测试" scheme="https://www.bebella.cc/tags/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>软件测试基础</title>
-    <link href="https://www.bebella.cc/2022/10/06/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/"/>
-    <id>https://www.bebella.cc/2022/10/06/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/</id>
-    <published>2022-10-06T10:57:01.000Z</published>
-    <updated>2023-07-01T13:52:23.969Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="6-什么是软件缺陷（BUG）"><a href="#6-什么是软件缺陷（BUG）" class="headerlink" title="6. 什么是软件缺陷（BUG）"></a>6. 什么是软件缺陷（BUG）</h4><p>第一个bug：</p><ul><li>Grace Hopper 计算机软件之母</li><li>1945.9.9</li><li>First actual case of bug being found</li></ul><p>著名软件故障：</p><ul><li>”算不准”的cpu【功能问题】</li><li>“哭泣”的狮子王【兼容性问题】</li><li>“失控”的动车【容错性问题】</li><li>“消失”的火星探测器【集成性问题】</li><li>“拒绝访问”的Gmail【性能问题】</li></ul><p>软件测试的必要性：</p><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h6vrviftnmj20jv05f0ud.jpg" alt="image.png"></p><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h6vrvw4aewj20k002dwf8.jpg" alt="image.png"></p><p>软件缺陷的正式定义：（符合一个就算）</p><ol><li>软件测试员认为难以理解，不易使用，运行速度缓慢or最终用户认为软件是用效果不好的</li><li>软件未达到需求规格说明书中指明的功能</li><li>软件出现了需求规格说明书中不会出现的错误</li><li>软件功能超出需求规格说明书中指明的范围</li><li>软件未达到需求规格说明书总虽未指出但应该达到的指标</li></ol><h4 id="7-什么是测试用例"><a href="#7-什么是测试用例" class="headerlink" title="7. 什么是测试用例"></a>7. 什么是测试用例</h4><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h6vs2h9qazj20e502l3z2.jpg" alt="image.png"></p><p>测试用例的基本属性</p><ul><li>典型性（代表性）</li><li>可测试性（可判定性）</li><li>可重现性</li><li>独立性</li></ul>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h4 id=&quot;6-什么是软件缺陷（BUG）&quot;&gt;&lt;a href=&quot;#6-什么是软件缺陷（BUG）&quot; class=&quot;headerlink&quot; title=&quot;6. 什么是软件缺陷（BUG）&quot;&gt;&lt;/a&gt;6. 什么是软件缺陷（BUG）&lt;/h4&gt;&lt;p&gt;第一个bug：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li</summary>
       
     
     
