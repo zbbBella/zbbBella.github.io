@@ -6,7 +6,7 @@
   <link href="https://www.bebella.cc/atom.xml" rel="self"/>
   
   <link href="https://www.bebella.cc/"/>
-  <updated>2023-08-11T16:17:56.738Z</updated>
+  <updated>2023-08-20T13:14:16.071Z</updated>
   <id>https://www.bebella.cc/</id>
   
   <author>
@@ -17,15 +17,48 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>科研绘图学习</title>
+    <link href="https://www.bebella.cc/2023/08/20/%E7%A7%91%E7%A0%94%E7%BB%98%E5%9B%BE%E5%AD%A6%E4%B9%A0/"/>
+    <id>https://www.bebella.cc/2023/08/20/%E7%A7%91%E7%A0%94%E7%BB%98%E5%9B%BE%E5%AD%A6%E4%B9%A0/</id>
+    <published>2023-08-20T12:54:26.000Z</published>
+    <updated>2023-08-20T13:14:16.071Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="第一章-基础介绍"><a href="#第一章-基础介绍" class="headerlink" title="第一章 基础介绍"></a>第一章 基础介绍</h3><h4 id="1-分类与构成"><a href="#1-分类与构成" class="headerlink" title="1. 分类与构成"></a>1. 分类与构成</h4><p>根据呈现方式，可分为：线性图、灰度图、照片彩图和综合配图</p><p>科研论文配图主要包括 X 轴（X axis，又称横轴）、Y 轴（Y axis，又称纵轴）、X 轴标签（X axis label）、Y轴标签（Y axis label）、主刻度（Major tick）、次刻度（Minor tick）和图例（Legend） 等。（如图所示）</p><p><img src="C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20230820205845465.png" alt="image-20230820205845465"></p><p>格式：</p><ul><li><p>像素图（一般要求不大于300dpi）</p><ul><li>JEPG</li><li>PSD</li><li>PNG</li><li>TIFF</li></ul></li><li><p>矢量图</p><ul><li><p>EPS （常用）</p></li><li><p>PDF （常用）</p></li><li><p>AI</p></li><li><p>SVG</p></li></ul></li></ul><p>字体：</p><ul><li>中文<ul><li>黑体</li><li>宋体</li></ul></li><li>英文科技期刊<ul><li>Arial</li><li>Helvetica</li><li>Times New Roman</li></ul></li></ul><p>版式设计：配图中文字的字体要保持一致，字号不大于正文字体的字号，行距、文字间距 应与正文协调一致</p><p>结构布局：先文后图</p><p>颜色搭配：</p><ul><li>相邻的图层元素不宜采用相近的颜色</li><li>避免过亮或过暗的颜色</li></ul><p>绘制原则：</p><ul><li>必要性</li><li>易读性</li><li>一致性</li></ul><h4 id="2-色彩相关"><a href="#2-色彩相关" class="headerlink" title="2. 色彩相关"></a>2. 色彩相关</h4><p>色彩模式</p><ul><li>RGB</li><li>CYMK</li><li>HEX</li></ul><h5 id="色轮（色环）配色"><a href="#色轮（色环）配色" class="headerlink" title="色轮（色环）配色"></a>色轮（色环）配色</h5><p>总览</p><p><img src="https://bella-typora-1319711826.cos.ap-guangzhou.myqcloud.com/typora/202308/20/210605-447269.png" alt="image-20230820210539922"></p><ul><li>单色配色方案（monochromatic  color scheme）<ul><li>常被用于表示有直接关系、关系较为密切或同系列的数据。</li><li>注意：颜色3~5种较为合适</li><li><img src="https://bella-typora-1319711826.cos.ap-guangzhou.myqcloud.com/typora/202308/20/211109-877514.png" alt="image-20230820211108882"></li></ul></li><li>互补色配色方案（complementary color scheme）<ul><li>当只能使用两种颜色时</li><li>色轮上间隔 180°（相对） 的两种颜色为互补色，对比效果强烈。</li><li>可用于科研论文配图中观察组数 据和对照组数据的可视化表达</li><li><img src="https://bella-typora-1319711826.cos.ap-guangzhou.myqcloud.com/typora/202308/20/211105-249870.png" alt="image-20230820211053653"></li></ul></li><li>等距三角配色方案（triadic  color scheme）<ul><li>较少使用</li><li>将色轮上彼此间隔 120°的 3 种颜色进行组合。</li><li>将其中一种颜色选为主色，将另外两种颜色作为辅色</li><li><img src="C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20230820211044578.png" alt="image-20230820211044578"></li></ul></li><li>四角配色方案（tetradic color scheme）<ul><li>少用，难平衡</li><li>优点是能够使配图的颜色更加丰富，缺点是使用时具有很大的挑战性，容易造成色彩杂乱</li></ul></li></ul><h5 id="颜色主题"><a href="#颜色主题" class="headerlink" title="颜色主题"></a>颜色主题</h5><p>matplotlib、seaborn自带颜色主题，可以直接用</p><h5 id="配色工具"><a href="#配色工具" class="headerlink" title="配色工具"></a>配色工具</h5><ul><li>Color Scheme Designer 网站中的高级在线配色器</li><li>Adobe 旗下的在线配色工具 Adobe  Color </li><li>颜色主题搭配网站 ColorBrewer 2.0</li></ul><h5 id=""><a href="#" class="headerlink" title=""></a></h5>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;第一章-基础介绍&quot;&gt;&lt;a href=&quot;#第一章-基础介绍&quot; class=&quot;headerlink&quot; title=&quot;第一章 基础介绍&quot;&gt;&lt;/a&gt;第一章 基础介绍&lt;/h3&gt;&lt;h4 id=&quot;1-分类与构成&quot;&gt;&lt;a href=&quot;#1-分类与构成&quot; class=&quot;header</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>贷款违约预测</title>
     <link href="https://www.bebella.cc/2023/08/12/%E8%B4%B7%E6%AC%BE%E8%BF%9D%E7%BA%A6%E9%A2%84%E6%B5%8B/"/>
     <id>https://www.bebella.cc/2023/08/12/%E8%B4%B7%E6%AC%BE%E8%BF%9D%E7%BA%A6%E9%A2%84%E6%B5%8B/</id>
     <published>2023-08-11T16:17:56.000Z</published>
-    <updated>2023-08-11T16:17:56.738Z</updated>
+    <updated>2023-08-11T16:19:45.880Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="一、介绍"><a href="#一、介绍" class="headerlink" title="一、介绍"></a>一、介绍</h2><h2 id="二、赛题理解"><a href="#二、赛题理解" class="headerlink" title="二、赛题理解"></a>二、赛题理解</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;一、介绍&quot;&gt;&lt;a href=&quot;#一、介绍&quot; class=&quot;headerlink&quot; title=&quot;一、介绍&quot;&gt;&lt;/a&gt;一、介绍&lt;/h2&gt;&lt;h2 id=&quot;二、赛题理解&quot;&gt;&lt;a href=&quot;#二、赛题理解&quot; class=&quot;headerlink&quot; title=&quot;二、赛题理</summary>
+      
     
     
     
+    <category term="ML/DL" scheme="https://www.bebella.cc/categories/ML-DL/"/>
     
+    
+    <category term="天池" scheme="https://www.bebella.cc/tags/%E5%A4%A9%E6%B1%A0/"/>
+    
+    <category term="竞赛" scheme="https://www.bebella.cc/tags/%E7%AB%9E%E8%B5%9B/"/>
     
   </entry>
   
@@ -458,26 +491,6 @@
     
     
     <category term="软件测试" scheme="https://www.bebella.cc/tags/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Redis_Docker下分片集群搭建</title>
-    <link href="https://www.bebella.cc/2022/10/25/Redis-Docker%E4%B8%8B%E5%88%86%E7%89%87%E9%9B%86%E7%BE%A4%E6%90%AD%E5%BB%BA/"/>
-    <id>https://www.bebella.cc/2022/10/25/Redis-Docker%E4%B8%8B%E5%88%86%E7%89%87%E9%9B%86%E7%BE%A4%E6%90%AD%E5%BB%BA/</id>
-    <published>2022-10-25T02:27:34.000Z</published>
-    <updated>2022-10-25T03:07:50.666Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="Cluster分片集群"><a href="#Cluster分片集群" class="headerlink" title="Cluster分片集群"></a>Cluster分片集群</h2><h3 id="哨兵模式存在的问题"><a href="#哨兵模式存在的问题" class="headerlink" title="哨兵模式存在的问题"></a>哨兵模式存在的问题</h3><p>redis哨兵模式虽然提供了redis⾼可⽤、高并发读的解决方案，但是在海量数据应用场景下，仍然存在海量数据存储问题和高并发写的问题。当只有⼀个Master对外提供服务时，如果数据量特别⼤，内存占⽤问题严重，数据的高并发写、数据备份和恢复都会⼤⼤降低效率。</p><h3 id="Cluster集群的结构与作用"><a href="#Cluster集群的结构与作用" class="headerlink" title="Cluster集群的结构与作用"></a>Cluster集群的结构与作用</h3><h4 id="结构特点："><a href="#结构特点：" class="headerlink" title="结构特点："></a>结构特点：</h4><ul><li>Redis Cluster采用的是基于P2P的<strong>去中心化</strong>的网络拓扑架构，没有中心节点，所有节点<strong>既是数据存储节点，也是控制节点</strong>；</li><li>引入槽(slot)的概念，通过CRC+hashslot算法支持多个主节（分片），每个主节点分别负责存储一部分数据，这样理论上可以支持无限主节点的水平扩容以便支持海量吞吐量；</li><li>内置类似哨兵的高可用机制，能够实现自动故障转移，保证每个主节点的高可用。</li></ul><p>Cluster又称分片集群，拥有分片存储的特性，不需要哨兵也可以完成故障转移功能，具有高可用性，性能优于哨兵模式，可以实现四栋扩容（不建议超过1000个节点）</p><h4 id="作用："><a href="#作用：" class="headerlink" title="作用："></a>作用：</h4><ol><li>集群中有多个master，每个master保存不同数据；</li><li>每个master都可以有多个slave节点；</li><li>master之间通过ping监测彼此健康状态；</li><li>客户端请求可以访问集群任意节点，最终都会被转发到正确节点。</li></ol><p>数据和slot绑定，而不是和节点绑定</p><table><thead><tr><th>各节点容器外IP</th><th>各节点容器内IP</th></tr></thead><tbody><tr><td>主节点1:127.0.0.16379</td><td>Redis_6379:172.17.0.2:6379</td></tr><tr><td>主节点2:127.0.0.16380</td><td>Redis_6380:172.17.0.3:6379</td></tr><tr><td>主节点3:127.0.0.16381</td><td>Redis_6380:172.17.0.7:6379</td></tr><tr><td>从节点4:127.0.0.126379</td><td>Redis_26379:172.17.0.4:26379</td></tr><tr><td>从节点5:127.0.0.126380</td><td>Redis_6379:172.17.0.5:26380</td></tr><tr><td>从节点6:127.0.0.126380</td><td>Redis_6379:172.17.0.6:26381</td></tr></tbody></table>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;Cluster分片集群&quot;&gt;&lt;a href=&quot;#Cluster分片集群&quot; class=&quot;headerlink&quot; title=&quot;Cluster分片集群&quot;&gt;&lt;/a&gt;Cluster分片集群&lt;/h2&gt;&lt;h3 id=&quot;哨兵模式存在的问题&quot;&gt;&lt;a href=&quot;#哨兵模式存在的问</summary>
-      
-    
-    
-    
     
   </entry>
   
