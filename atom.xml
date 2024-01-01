@@ -6,7 +6,7 @@
   <link href="https://www.bebella.cc/atom.xml" rel="self"/>
   
   <link href="https://www.bebella.cc/"/>
-  <updated>2023-08-22T14:21:13.767Z</updated>
+  <updated>2024-01-01T09:23:18.398Z</updated>
   <id>https://www.bebella.cc/</id>
   
   <author>
@@ -15,6 +15,52 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Zotero学习与使用</title>
+    <link href="https://www.bebella.cc/2024/01/01/Zotero%E5%AD%A6%E4%B9%A0%E4%B8%8E%E4%BD%BF%E7%94%A8/"/>
+    <id>https://www.bebella.cc/2024/01/01/Zotero%E5%AD%A6%E4%B9%A0%E4%B8%8E%E4%BD%BF%E7%94%A8/</id>
+    <published>2024-01-01T08:50:03.000Z</published>
+    <updated>2024-01-01T09:23:18.398Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="一、安装与获取"><a href="#一、安装与获取" class="headerlink" title="一、安装与获取"></a>一、安装与获取</h3><p>自行百度plz，记得装浏览器插件</p><h3 id="二、题录收集"><a href="#二、题录收集" class="headerlink" title="二、题录收集"></a>二、题录收集</h3><p><img src="https://bella-typora-1319711826.cos.ap-guangzhou.myqcloud.com/typora/202401/01/170216-474905.png" alt="image-20240101170213797"></p><h3 id="三、题录管理"><a href="#三、题录管理" class="headerlink" title="三、题录管理"></a>三、题录管理</h3><p><img src="https://bella-typora-1319711826.cos.ap-guangzhou.myqcloud.com/typora/202401/01/170331-774822.png" alt="image-20240101170330654"></p><ol><li><p>移动分类</p><ul><li>左键+shift 可以移动</li><li>右键可以添加、移除</li><li>选中一篇 +Ctrl，可以显示文献所在目录</li></ul></li><li><p>查重 + 合并</p><ul><li><img src="C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20240101170653972.png" alt="image-20240101170653972"></li></ul><ol start="3"><li>关联<ul><li>“关联文献”中关联，不可传递</li></ul></li><li>标签<ul><li>同3</li></ul></li><li>笔记<ul><li>附件笔记</li><li>注释笔记<ul><li>内置了PDF阅读器，导出即可</li></ul></li><li>条目笔记</li></ul></li><li>RSS订阅<ul><li><img src="https://bella-typora-1319711826.cos.ap-guangzhou.myqcloud.com/typora/202401/01/171026-236372.png" alt="image-20240101171025017"></li></ul></li></ol><p>总结</p><p><img src="C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20240101171128760.png" alt="image-20240101171128760"></p></li></ol><h3 id="四、论文中插入引用"><a href="#四、论文中插入引用" class="headerlink" title="四、论文中插入引用"></a>四、论文中插入引用</h3><p><img src="https://bella-typora-1319711826.cos.ap-guangzhou.myqcloud.com/typora/202401/01/171239-140428.png" alt="image-20240101171235958"></p><p>然后输入标题&#x2F;经典视图 </p><p><img src="https://bella-typora-1319711826.cos.ap-guangzhou.myqcloud.com/typora/202401/01/171322-605507.png" alt="image-20240101171319218"></p><p><img src="https://bella-typora-1319711826.cos.ap-guangzhou.myqcloud.com/typora/202401/01/171935-288126.png" alt="image-20240101171847550"></p><h3 id="五、云同步"><a href="#五、云同步" class="headerlink" title="五、云同步"></a>五、云同步</h3><p>坚果云</p><h3 id="六、插件"><a href="#六、插件" class="headerlink" title="六、插件"></a>六、插件</h3><p>安装插件：下载好后直接拖拽：工具—-插件</p><ol><li><p>Jasminum（茉莉花）</p><p>提取中文PDF</p><p>Download: <a href="https://github.com/l0o0/jasminum">https://github.com/l0o0/jasminum</a></p></li><li><p>翻译</p><p><a href="https://github.com/windingwind/zotero-pdf-translate">https://github.com/windingwind/zotero-pdf-translate</a></p></li></ol><hr><p>学习链接：</p><p>【【商小图学堂】文献管理神器之Zotero】<a href="https://www.bilibili.com/video/BV1vS4y1q7uw?vd_source=ff4fdf111083f114ea22f144e77511bc">https://www.bilibili.com/video/BV1vS4y1q7uw?vd_source=ff4fdf111083f114ea22f144e77511bc</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;一、安装与获取&quot;&gt;&lt;a href=&quot;#一、安装与获取&quot; class=&quot;headerlink&quot; title=&quot;一、安装与获取&quot;&gt;&lt;/a&gt;一、安装与获取&lt;/h3&gt;&lt;p&gt;自行百度plz，记得装浏览器插件&lt;/p&gt;
+&lt;h3 id=&quot;二、题录收集&quot;&gt;&lt;a href=&quot;#二、题</summary>
+      
+    
+    
+    
+    
+    <category term="学习" scheme="https://www.bebella.cc/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>计算机组成原理</title>
+    <link href="https://www.bebella.cc/2023/09/16/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/"/>
+    <id>https://www.bebella.cc/2023/09/16/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/</id>
+    <published>2023-09-16T11:48:55.000Z</published>
+    <updated>2023-09-16T12:26:04.152Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>二轮完整记录一些知识点与做题技巧</p><h2 id="第7章-I-x2F-O-系统"><a href="#第7章-I-x2F-O-系统" class="headerlink" title="第7章 I&#x2F;O 系统"></a>第7章 I&#x2F;O 系统</h2><h3 id="概览："><a href="#概览：" class="headerlink" title="概览："></a>概览：</h3><ul><li>I&#x2F;O 接口功能</li><li>I&#x2F;O 接口基本结构</li><li>I&#x2F;O 接口类型</li><li>编址方式</li><li><strong>I&#x2F;O方式</strong><ul><li>程序查询方式</li><li>程序中断方式</li><li>DMA方式</li></ul></li></ul><h3 id="知识点"><a href="#知识点" class="headerlink" title="知识点"></a>知识点</h3><h4 id="I-x2F-O接口"><a href="#I-x2F-O接口" class="headerlink" title="I&#x2F;O接口"></a>I&#x2F;O接口</h4><p>“I&#x2F;O控制器”，主机与外设之间的接口，可实现主机与外设支架的信息交换</p><h4 id="I-x2F-O接口的功能"><a href="#I-x2F-O接口的功能" class="headerlink" title="I&#x2F;O接口的功能"></a>I&#x2F;O接口的功能</h4><ul><li><p>进行地址译码和设备选择</p></li><li><p>实现主机外设之间的通信联络控制</p></li><li><p>实现数据缓冲</p><blockquote><p>为消除速度差异，需设置数据缓冲寄存器，用于数据的暂存，以避免因速度不一致而丢失数据</p></blockquote></li><li><p>信号格式的转换</p></li><li><p>传送<strong>控制信息</strong>和<strong>状态信息</strong></p></li></ul><h4 id="I-x2F-O接口结构"><a href="#I-x2F-O接口结构" class="headerlink" title="I&#x2F;O接口结构"></a>I&#x2F;O接口结构</h4><img src="C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20230916201128545.png" alt="image-20230916201128545" style="zoom: 40%;" /><p>状态寄存器，控制寄存器在传送方向上相反</p><p>地址线：给出要访问的IO接口中的寄存器的地址</p><p>控制线：传来读写信号确认是读寄存器还是写寄存器</p><p>IO控制逻辑：</p><ul><li>对寄存器控制器中的命令字进行译码，并将控制信息通过外设界面控制逻辑送到外设</li><li>将数据缓冲寄存器的数据发送到外设or反过来</li><li>还具有收集外设状态到寄存器的功能</li></ul><p>对接口中寄寄存器的访问是通过<code>I/O指令</code>来完成的</p><h4 id="I-x2F-O接口类型"><a href="#I-x2F-O接口类型" class="headerlink" title="I&#x2F;O接口类型"></a>I&#x2F;O接口类型</h4><p>$$ 数据传送方式\left{ \begin{matrix}并行接口\串行接口\end{matrix} \right. $$</p><p>$$ 主机访问I&#x2F;O设备的控制方式\left{ \begin{matrix}程序查询接口\ 中断接口\ DMA接口 \end{matrix} \right. $$</p><p>$$ 功能选择的灵活性\left{ \begin{matrix}可编程接口\不可编程接口\end{matrix} \right. $$</p><h4 id="I-x2F-O端口"><a href="#I-x2F-O端口" class="headerlink" title="I&#x2F;O端口"></a>I&#x2F;O端口</h4><p>接口电路中可以被CPU直接访问的寄存器</p><blockquote><p>IO端口与IO接口：</p><p>IO端口是指接口电路中可以进行读&#x2F;写的寄存器</p><p>若干端口 + 控制逻辑 &#x3D; 接口</p></blockquote><h4 id="I-x2F-O-端口编址方式"><a href="#I-x2F-O-端口编址方式" class="headerlink" title="I&#x2F;O 端口编址方式"></a>I&#x2F;O 端口编址方式</h4><ul><li><h2 id="统一编址（存储器映射方式）"><a href="#统一编址（存储器映射方式）" class="headerlink" title="统一编址（存储器映射方式）"></a>统一编址（存储器映射方式）</h2></li><li>独立编址（I&#x2F;O映射方式）</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;二轮完整记录一些知识点与做题技巧&lt;/p&gt;
+&lt;h2 id=&quot;第7章-I-x2F-O-系统&quot;&gt;&lt;a href=&quot;#第7章-I-x2F-O-系统&quot;</summary>
+      
+    
+    
+    
+    
+    <category term="408" scheme="https://www.bebella.cc/tags/408/"/>
+    
+  </entry>
   
   <entry>
     <title>科研绘图学习</title>
@@ -471,56 +517,6 @@
       
     
     
-    
-    
-    <category term="软工实践" scheme="https://www.bebella.cc/tags/%E8%BD%AF%E5%B7%A5%E5%AE%9E%E8%B7%B5/"/>
-    
-    <category term="后端" scheme="https://www.bebella.cc/tags/%E5%90%8E%E7%AB%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【软件测试】实验一：Junit的使用</title>
-    <link href="https://www.bebella.cc/2022/11/09/%E3%80%90%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E3%80%91%E5%AE%9E%E9%AA%8C%E4%B8%80%EF%BC%9AJunit%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
-    <id>https://www.bebella.cc/2022/11/09/%E3%80%90%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E3%80%91%E5%AE%9E%E9%AA%8C%E4%B8%80%EF%BC%9AJunit%E7%9A%84%E4%BD%BF%E7%94%A8/</id>
-    <published>2022-11-09T03:13:51.000Z</published>
-    <updated>2023-07-01T13:49:48.803Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="一、Junit测试步骤"><a href="#一、Junit测试步骤" class="headerlink" title="一、Junit测试步骤"></a>一、Junit测试步骤</h2><h3 id="1-创建测试类"><a href="#1-创建测试类" class="headerlink" title="1. 创建测试类"></a>1. 创建测试类</h3><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h7ypocm2sfj20oc0ijgpb.jpg" alt="测试类"></p><h3 id="2-设计测试用例"><a href="#2-设计测试用例" class="headerlink" title="2. 设计测试用例"></a>2. 设计测试用例</h3><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h7ypowmedfj20f604cwge.jpg" alt="设计测试用例"></p><p>输入说明：</p><p>action：行为动作，取值为：存、取、显示</p><p>money：现有的存款</p><p>money_use：需要进行操作（存或取）的数量</p><h3 id="3-编写测试脚本"><a href="#3-编写测试脚本" class="headerlink" title="3. 编写测试脚本"></a>3. 编写测试脚本</h3><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h7yppm8rk0j20ju0jcdms.jpg" alt="部分测试脚本展示"></p><h3 id="4-测试UserAccount类"><a href="#4-测试UserAccount类" class="headerlink" title="4. 测试UserAccount类"></a>4. 测试UserAccount类</h3><p>测试样例1</p><p><img src="C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20221109113008198.png" alt="测试样例1"></p><p>测试样例2</p><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h7yq9bvflfj20nu0d2tds.jpg" alt="测试样例2"></p><p>测试样例3</p><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h7yqa9ejd3j20mx0hiwkc.jpg" alt="测试样例3"></p><p>测试样例4</p><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h7yqbe5dluj20qd0g0q9l.jpg" alt="测试样例4"></p><p>测试样例5</p><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h7yqccvc6sj20js0f9n1w.jpg" alt="测试样例5"></p><h2 id="二、测试方案优缺点评判"><a href="#二、测试方案优缺点评判" class="headerlink" title="二、测试方案优缺点评判"></a>二、测试方案优缺点评判</h2><h3 id="1-四种测试方案"><a href="#1-四种测试方案" class="headerlink" title="1. 四种测试方案"></a>1. 四种测试方案</h3><p>优点：</p><ul><li>支持多线程</li><li>简单直观</li></ul><p>缺点：</p><ul><li>对多个方法调用。 需要添加打印或者输出语句。 </li><li>添加了新的测试方法。 需要在main方法添加方法调用。 </li><li>不能形成整体的测试结果。</li><li>需要对打印或者输出结果进行人为的判断。</li><li>速度慢</li></ul><h3 id="2-Junit"><a href="#2-Junit" class="headerlink" title="2. Junit"></a>2. Junit</h3><p>优点：</p><ul><li>可以书写一系列的 测试方法，对项目所有的 接口或者方法进行单元测试。</li><li>启动后，自动化测试，并判断执行结果, 不需要人为的干预。</li><li>只需要查看最后结果，就知道整个项目的方法接口是否通畅。</li><li>每个单元测试用例相对独立， 由Junit 启动，自动调用。 不需要添加额外的调用语句。</li><li>添加，删除，屏蔽测试方法，不影响其他的测试方法。 开源框架都对JUnit 有相应的支持。</li><li>测试速度快</li></ul><p>缺点：</p><ul><li>不支持多线程</li></ul>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;一、Junit测试步骤&quot;&gt;&lt;a href=&quot;#一、Junit测试步骤&quot; class=&quot;headerlink&quot; title=&quot;一、Junit测试步骤&quot;&gt;&lt;/a&gt;一、Junit测试步骤&lt;/h2&gt;&lt;h3 id=&quot;1-创建测试类&quot;&gt;&lt;a href=&quot;#1-创建测试类&quot; c</summary>
-      
-    
-    
-    
-    <category term="课程作业" scheme="https://www.bebella.cc/categories/%E8%AF%BE%E7%A8%8B%E4%BD%9C%E4%B8%9A/"/>
-    
-    
-    <category term="软件测试" scheme="https://www.bebella.cc/tags/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Redis_Docker下分片集群搭建</title>
-    <link href="https://www.bebella.cc/2022/10/25/Redis-Docker%E4%B8%8B%E5%88%86%E7%89%87%E9%9B%86%E7%BE%A4%E6%90%AD%E5%BB%BA/"/>
-    <id>https://www.bebella.cc/2022/10/25/Redis-Docker%E4%B8%8B%E5%88%86%E7%89%87%E9%9B%86%E7%BE%A4%E6%90%AD%E5%BB%BA/</id>
-    <published>2022-10-25T02:27:34.000Z</published>
-    <updated>2023-08-22T14:45:24.426Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="Cluster分片集群"><a href="#Cluster分片集群" class="headerlink" title="Cluster分片集群"></a>Cluster分片集群</h2><h3 id="哨兵模式存在的问题"><a href="#哨兵模式存在的问题" class="headerlink" title="哨兵模式存在的问题"></a>哨兵模式存在的问题</h3><p>redis哨兵模式虽然提供了redis⾼可⽤、高并发读的解决方案，但是在海量数据应用场景下，仍然存在海量数据存储问题和高并发写的问题。当只有⼀个Master对外提供服务时，如果数据量特别⼤，内存占⽤问题严重，数据的高并发写、数据备份和恢复都会⼤⼤降低效率。</p><h3 id="Cluster集群的结构与作用"><a href="#Cluster集群的结构与作用" class="headerlink" title="Cluster集群的结构与作用"></a>Cluster集群的结构与作用</h3><h4 id="结构特点："><a href="#结构特点：" class="headerlink" title="结构特点："></a>结构特点：</h4><ul><li>Redis Cluster采用的是基于P2P的<strong>去中心化</strong>的网络拓扑架构，没有中心节点，所有节点<strong>既是数据存储节点，也是控制节点</strong>；</li><li>引入槽(slot)的概念，通过CRC+hashslot算法支持多个主节（分片），每个主节点分别负责存储一部分数据，这样理论上可以支持无限主节点的水平扩容以便支持海量吞吐量；</li><li>内置类似哨兵的高可用机制，能够实现自动故障转移，保证每个主节点的高可用。</li></ul><p>Cluster又称分片集群，拥有分片存储的特性，不需要哨兵也可以完成故障转移功能，具有高可用性，性能优于哨兵模式，可以实现四栋扩容（不建议超过1000个节点）</p><h4 id="作用："><a href="#作用：" class="headerlink" title="作用："></a>作用：</h4><ol><li>集群中有多个master，每个master保存不同数据；</li><li>每个master都可以有多个slave节点；</li><li>master之间通过ping监测彼此健康状态；</li><li>客户端请求可以访问集群任意节点，最终都会被转发到正确节点。</li></ol><p>数据和slot绑定，而不是和节点绑定</p><table><thead><tr><th>各节点容器外IP</th><th>各节点容器内IP</th></tr></thead><tbody><tr><td>主节点1:127.0.0.16379</td><td>Redis_6379:172.17.0.2:6379</td></tr><tr><td>主节点2:127.0.0.16380</td><td>Redis_6380:172.17.0.3:6379</td></tr><tr><td>主节点3:127.0.0.16381</td><td>Redis_6380:172.17.0.7:6379</td></tr><tr><td>从节点4:127.0.0.126379</td><td>Redis_26379:172.17.0.4:26379</td></tr><tr><td>从节点5:127.0.0.126380</td><td>Redis_6379:172.17.0.5:26380</td></tr><tr><td>从节点6:127.0.0.126380</td><td>Redis_6379:172.17.0.6:26381</td></tr></tbody></table>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;Cluster分片集群&quot;&gt;&lt;a href=&quot;#Cluster分片集群&quot; class=&quot;headerlink&quot; title=&quot;Cluster分片集群&quot;&gt;&lt;/a&gt;Cluster分片集群&lt;/h2&gt;&lt;h3 id=&quot;哨兵模式存在的问题&quot;&gt;&lt;a href=&quot;#哨兵模式存在的问</summary>
-      
-    
-    
-    
-    <category term="课程作业" scheme="https://www.bebella.cc/categories/%E8%AF%BE%E7%A8%8B%E4%BD%9C%E4%B8%9A/"/>
     
     
     <category term="软工实践" scheme="https://www.bebella.cc/tags/%E8%BD%AF%E5%B7%A5%E5%AE%9E%E8%B7%B5/"/>
