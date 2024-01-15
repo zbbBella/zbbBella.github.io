@@ -6,7 +6,7 @@
   <link href="https://www.bebella.cc/atom.xml" rel="self"/>
   
   <link href="https://www.bebella.cc/"/>
-  <updated>2024-01-10T15:45:56.152Z</updated>
+  <updated>2024-01-15T08:34:36.135Z</updated>
   <id>https://www.bebella.cc/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Jupyter快捷键</title>
+    <link href="https://www.bebella.cc/2024/01/15/Jupyter%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
+    <id>https://www.bebella.cc/2024/01/15/Jupyter%E5%BF%AB%E6%8D%B7%E9%94%AE/</id>
+    <published>2024-01-15T08:20:21.000Z</published>
+    <updated>2024-01-15T08:34:36.135Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Jupyter-快捷键"><a href="#Jupyter-快捷键" class="headerlink" title="Jupyter 快捷键"></a>Jupyter 快捷键</h2><ul><li><p>执行当前单元格并移动到下一个格：<code>Shift + Enter</code></p><ul><li>执行且不移动：<code>Ctrl + Enter</code></li><li>执行并插入新单元格：<code>Alt + Enter</code></li></ul></li><li><p>编辑模式 -&gt; 命令模式：<code>Esc</code></p></li><li><p>命令模式 -&gt; 编辑模式：<code>Enter</code></p></li><li><p>插入（直接输入即可）</p><ul><li>前：<code>A</code></li><li>后：<code>B</code></li></ul></li><li><p>删除：<code>D + D</code>（连续2D）</p></li><li><p>当前单元格切换为<code>Markdown</code>格式：<code>M</code></p></li><li><p>当前单元格切换为<code>代码</code>格式：<code>Y</code></p></li><li><p>保存：<code>Ctrl + S</code></p></li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Jupyter-快捷键&quot;&gt;&lt;a href=&quot;#Jupyter-快捷键&quot; class=&quot;headerlink&quot; title=&quot;Jupyter 快捷键&quot;&gt;&lt;/a&gt;Jupyter 快捷键&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;执行当前单元格并移动到下一个格：&lt;code&gt;Shi</summary>
+      
+    
+    
+    
+    
+    <category term="Jupyter" scheme="https://www.bebella.cc/tags/Jupyter/"/>
+    
+  </entry>
   
   <entry>
     <title>LeetCode专题1：数组</title>
@@ -488,32 +511,6 @@
     <category term="软工实践" scheme="https://www.bebella.cc/tags/%E8%BD%AF%E5%B7%A5%E5%AE%9E%E8%B7%B5/"/>
     
     <category term="后端" scheme="https://www.bebella.cc/tags/%E5%90%8E%E7%AB%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【自然语言处理NLP】（10）语义分析</title>
-    <link href="https://www.bebella.cc/2022/11/14/%E3%80%90%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86NLP%E3%80%91%EF%BC%8810%EF%BC%89%E8%AF%AD%E4%B9%89%E5%88%86%E6%9E%90/"/>
-    <id>https://www.bebella.cc/2022/11/14/%E3%80%90%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86NLP%E3%80%91%EF%BC%8810%EF%BC%89%E8%AF%AD%E4%B9%89%E5%88%86%E6%9E%90/</id>
-    <published>2022-11-14T07:24:20.000Z</published>
-    <updated>2023-07-01T13:49:07.522Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="语义分析"><a href="#语义分析" class="headerlink" title="语义分析"></a>语义分析</h2><h3 id="词汇级"><a href="#词汇级" class="headerlink" title="词汇级"></a>词汇级</h3><h4 id="词义消歧"><a href="#词义消歧" class="headerlink" title="词义消歧"></a>词义消歧</h4><p>自然语言处理中的基本问题之一，在机器翻译、文本分类、信息检索、语音识别、语义网络构建等方面都具有重要意义</p><p>自然语言中一个词具有多种含义的现象非常普遍。如何自动获悉某个词的多种含义；或者已知某个词有多种含义，如何根据上下文确认其含义，是词义消歧研究的内容。</p><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h84ot6n8f1j20h80aqgr6.jpg" alt="打的多样性"></p><p>分为四类方法：</p><h5 id="1-基于背景知识的语义消歧（基于规则的方法）"><a href="#1-基于背景知识的语义消歧（基于规则的方法）" class="headerlink" title="1. 基于背景知识的语义消歧（基于规则的方法）"></a>1. 基于背景知识的语义消歧（基于规则的方法）</h5><p>基于背景知识的语义消歧方法基本思想是这样的：通过词典中词条本身的定义作为判断其语义的条件。<br>举个例子，cone这个词在词典中有两个定义：一个是指“松树的球果”，另一个是指“用于盛放其他东西的锥形物，比如，盛放冰激凌的锥形薄饼”。<br>如果在文本中，“树(tree)”或者“冰(ice)”与cone出现在相同的上下文中，那么，cone的语义就可以确定了，tree对应cone的语义1，ice对应cone的语义2。<br>可以看出，这种方法完全是基于规则的。</p><h5 id="2-监督的语义消歧方法"><a href="#2-监督的语义消歧方法" class="headerlink" title="2. 监督的语义消歧方法"></a>2. 监督的语义消歧方法</h5><p>监督学习的方法就是，数据的类别在学习之前已经知道。<br>在语义消歧的问题上，每个词所有可能的义项都是已知的。有监督的语义消歧方法是通过一个已标注的语料库学习得到一个分类模型。</p><p>常用方法：</p><ol><li><h6 id="基于贝叶斯分类器的词义消歧方法"><a href="#基于贝叶斯分类器的词义消歧方法" class="headerlink" title="基于贝叶斯分类器的词义消歧方法"></a>基于<strong>贝叶斯分类器</strong>的词义消歧方法</h6></li><li><p>基于<strong>最大熵</strong>的词义消歧方法</p><p>每个词表达不同含意时其上下文（语境）往往不同，即不同的词义对应不同的上下文。因此，可以将词的上下文作为特征信息利用最大熵模型对词的语义进行分类。</p><p><img src="https://tva1.sinaimg.cn/large/95dcfebagy1h84p5cgp9oj20lk0e5q84.jpg" alt="image.png"><img src="https://img-blog.csdnimg.cn/20190919205143646.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2VjaG9LYW5nWUw=,size_16,color_FFFFFF,t_70" alt="最大熵模型语义消歧2"></p></li><li><p>基于<strong>互信息</strong>的消歧方法</p></li></ol><h5 id="3-半监督的学习方法"><a href="#3-半监督的学习方法" class="headerlink" title="3.半监督的学习方法"></a>3.半监督的学习方法</h5><h5 id="4-无监督的学习方法"><a href="#4-无监督的学习方法" class="headerlink" title="4. 无监督的学习方法"></a>4. 无监督的学习方法</h5><h4 id="词语相似度"><a href="#词语相似度" class="headerlink" title="词语相似度"></a>词语相似度</h4><p>在信息检索、信息抽取、词义排歧、机器翻译、句法分析等处理中有很重要的作用。</p><p>两个词语在不同的上下文中可以互相替换使用而不改变文本的句法语义结构的程度。<br>在不同的上下文中可以互相替换且不改变文本句法语义结构的可能性越大，二者的相似度就越高，否则相似度就越低。</p><p>相似度以一个数值表示，一般取值范围在[0,1]之间。一个词语与其本身的语义相似度为1；如果两个词语在任何上下文中都不可替换，那么其相似度为0。<br>值得注意的是，相似度涉及到词语的词法、句法、语义甚至语用等方面的特点。其中，对词语相似度影响最大的应该是词的语义。</p><h6 id="词语距离"><a href="#词语距离" class="headerlink" title="词语距离"></a>词语距离</h6><p>词语距离是度量两个词语关系的另一个重要指标，用一个[0,∞)之间的实数表示。</p><p>大家可以想象，词语距离和词语相似度之间一定是存在某种关系的：</p><ol><li>两个词语距离为0时，其相似度为1 。即，一个词语与其本身的距离为0；</li><li>两个词语距离为无穷大时，其相似度为0；</li><li>两个词语的距离越大，其相似度越小（单调下降）。</li><li>如果将词语相似度记为$sim(w_1,w_2)$,而将词语距离记为$dis(w_1,w_2)$，则有：$sim(w_1,w_2)&#x3D;\frac{\alpha}{dis(w_1,w_2)+\alpha}$</li></ol><p>其中，$\alpha$是一个可调节的参数，表示<strong>相似度为0.5时的词语距离值</strong>（上式简单移项带入值既可）。</p><p>词语距离是为了当直接计算词语的相似度比较困难时，可以先计算词语距离，再转换成词语的相似度。</p><h6 id="词语相关性"><a href="#词语相关性" class="headerlink" title="词语相关性"></a>词语相关性</h6><p>词语相关性反映的是两个词语互相关联的程度，可以用这两个词语在同一个语境中共现的可能性来衡量。<br>一开始看见整个概念的时候可能会有种“这和词语相似度不是差不多么”这样的感觉，其实不然。<br>举个例子，“医生”和“疾病”这两个词之间的相似度很低，但是相关性很高（因为这两个词经常在同一语境中出现）。<br>用一句高深的话来讲，词语相似性反映的是词语之间的聚合特点，而词语相关性反映的是词语之间的组合特点。<br>词语相关性也以一个数值表示，一般取范围在[0,1]之间的实数。<br>虽然相关性与相似性并不相同，但实际上，词语相关性和词语相似性有着密切的联系。如果两个词语非常相似，那么这两个词语与其他词语的相关性也会非常接近。反之，如果两个词语与其他词语的相关性特点很接近，那么这两个词一般相似程度也很高。</p><h3 id="句子级"><a href="#句子级" class="headerlink" title="句子级"></a>句子级</h3><hr><p>参考：</p><p><a href="https://blog.csdn.net/echoKangYL/article/details/101034566?spm=1001.2014.3001.5502">https://blog.csdn.net/echoKangYL/article/details/101034566?spm=1001.2014.3001.5502</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;语义分析&quot;&gt;&lt;a href=&quot;#语义分析&quot; class=&quot;headerlink&quot; title=&quot;语义分析&quot;&gt;&lt;/a&gt;语义分析&lt;/h2&gt;&lt;h3 id=&quot;词汇级&quot;&gt;&lt;a href=&quot;#词汇级&quot; class=&quot;headerlink&quot; title=&quot;词汇级&quot;&gt;&lt;/a&gt;词汇</summary>
-      
-    
-    
-    
-    <category term="课程作业" scheme="https://www.bebella.cc/categories/%E8%AF%BE%E7%A8%8B%E4%BD%9C%E4%B8%9A/"/>
-    
-    
-    <category term="python" scheme="https://www.bebella.cc/tags/python/"/>
-    
-    <category term="NLP" scheme="https://www.bebella.cc/tags/NLP/"/>
     
   </entry>
   

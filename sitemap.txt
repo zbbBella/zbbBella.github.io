@@ -1,3 +1,4 @@
+https://www.bebella.cc/2024/01/15/Jupyter%E5%BF%AB%E6%8D%B7%E9%94%AE/
 https://www.bebella.cc/2024/01/10/LeetCode%E4%B8%93%E9%A2%981%EF%BC%9A%E6%95%B0%E7%BB%84/
 https://www.bebella.cc/2024/01/01/Zotero%E5%AD%A6%E4%B9%A0%E4%B8%8E%E4%BD%BF%E7%94%A8/
 https://www.bebella.cc/2023/09/16/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/
@@ -50,6 +51,7 @@ https://www.bebella.cc/tags/%E7%AB%9E%E8%B5%9B/
 https://www.bebella.cc/tags/%E8%80%83%E7%A0%94/
 https://www.bebella.cc/tags/%E5%AD%A6%E4%B9%A0/
 https://www.bebella.cc/tags/408/
+https://www.bebella.cc/tags/Jupyter/
 https://www.bebella.cc/categories/Kaggle/
 https://www.bebella.cc/categories/%E8%AF%BE%E7%A8%8B%E4%BD%9C%E4%B8%9A/
 https://www.bebella.cc/categories/%E7%AE%97%E6%B3%95/
